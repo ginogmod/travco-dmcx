@@ -1,0 +1,33 @@
+{
+  "group": "Test Group",
+  "agent": "",
+  "nationality": "",
+  "arrivalDate": "2025-08-01",
+  "departureDate": "",
+  "pax": 10,
+  "hotels": [
+    {
+      "name": "Grand Hyatt",
+      "checkIn": "2025-08-01",
+      "checkOut": "2025-08-03",
+      "roomType": "",
+      "mealPlan": ""
+    },
+    {
+      "name": "",
+      "checkIn": "2025-08-03",
+      "checkOut": "2025-08-05",
+      "roomType": "Standard",
+      "mealPlan": "BB"
+    }
+  ],
+  "transportation": [
+    {
+      "vehicleType": "",
+      "days": 5
+    }
+  ],
+  "itinerary": "Day 1: Arrival\nDay 2: City Tour\nDay 3: Free Day\nDay 4: Desert Tour\nDay 5: Departure",
+  "inclusions": "Hotel accommodation\nBreakfast\nTransportation\nGuide",
+  "exclusions": "Flights\nVisa fees\nPersonal expenses\nTips"
+}

@@ -1,0 +1,77 @@
+/* global.css */
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html, #root {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+:root {
+  --theme-transition: 0.25s;
+}
+
+body {
+  transition:
+    background-color var(--theme-transition) ease,
+    color var(--theme-transition) ease,
+    filter var(--theme-transition) ease;
+}
+
+/* Dark mode (current design) */
+body.dark {
+  background: #121212;
+  color: #ffffff;
+  color-scheme: dark;
+}
+
+/* Light mode using safe inversion to avoid refactoring inline styles across app */
+body.light {
+  /* Keep the app rendering dark palette, then invert the whole page visually */
+  background: #121212;
+  color: #ffffff;
+  filter: invert(1) hue-rotate(180deg);
+  color-scheme: light;
+}
+
+/* Revert media so images/logos/videos render normal in light mode */
+body.light img,
+body.light video,
+body.light svg,
+body.light canvas,
+body.light iframe {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+/* Utility for components that must not be inverted with the page (only in light mode) */
+body.light .no-invert {
+  filter: invert(1) hue-rotate(180deg) !important;
+}
+
+/* Inside a no-invert subtree, keep media unfiltered to avoid double-inversion */
+body.light .no-invert img,
+body.light .no-invert video,
+body.light .no-invert svg,
+body.light .no-invert canvas,
+body.light .no-invert iframe {
+  filter: none !important;
+}
+
+/* Keyboard navigation focus styles */
+[data-kb-item]:focus,
+[data-kb-item]:focus-visible {
+  outline: 2px solid #1a73e8;
+  outline-offset: 2px;
+}
+
+/* Make generic pressable elements show focus as well */
+[role="button"]:focus,
+[role="button"]:focus-visible {
+  outline: 2px solid #1a73e8;
+  outline-offset: 2px;
+}

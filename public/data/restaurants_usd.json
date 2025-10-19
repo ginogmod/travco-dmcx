@@ -1,0 +1,552 @@
+[
+  {
+    "region": "Ajloun",
+    "restaurant": "Jar Al Jabal Restaurant Ajloun",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 7.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 9.87,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Al-Hasa - Mid‑Desert Highway",
+    "restaurant": "New Jerusalem Resthouse",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 6.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 8.46,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Beit Sitti",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 2.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 2.82,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Fakhr El-Dean Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 33.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 46.53,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Huda’s Local House",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 15.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 21.15,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Huda’s Local House",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 12.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 16.92,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Indish - House of charcoal Tandoor",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 8.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 11.28,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Jordan Heritage Rest Amman",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 14.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 19.74,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Jordan Heritage Rest Amman",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 14.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 19.74,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Mijana Restaurant Amman",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 13.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 18.33,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Reem Al Bawadi Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 9.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 12.69,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Shams Al Balad Restaurant",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 1.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 1.41,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Shams Al Balad Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 1.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 1.41,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Tandori Oven - Abdoun",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 18.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 25.38,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Tawahean El-Hawa",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 9.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 12.69,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Tawahean El-Hawa",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 9.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 12.69,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "The Jordanian Kitchen - Cooking Clas",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 25.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 35.25,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Um Khalil Restaurant - Amman",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 16.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 22.56,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Zajal Restaurant - Down Town Amman",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 3.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 4.23,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Amman",
+    "restaurant": "Zajal Restaurant - Down Town Amman",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 3.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 4.23,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Aqaba",
+    "restaurant": "Captin Rest Aqaba",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 15.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 15.0,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Aqaba",
+    "restaurant": "Captin Rest Aqaba",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 15.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 15.0,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Aqaba",
+    "restaurant": "Movenpick Tala Bay-Cruise",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 10.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 14.1,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Aqaba",
+    "restaurant": "Papaya Restaurant",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 8.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 11.28,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Aqaba",
+    "restaurant": "Papaya Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 8.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 11.28,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Aqaba",
+    "restaurant": "Romero Aqaba Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 2024.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 2853.84,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Aqaba",
+    "restaurant": "Suzana Restaurant, Downtown, Aqaba",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 18.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 25.38,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Aqaba",
+    "restaurant": "Zaid Amer's Local House",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 14.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 19.74,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Dead Sea",
+    "restaurant": "Dead Sea Spa Hotel",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 10.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 10.0,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Dead Sea",
+    "restaurant": "Holiday Inn Dead Sea Hotel",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 15.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 15.0,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Jerash",
+    "restaurant": "Artemis Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 7.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 9.87,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Jerash",
+    "restaurant": "Beit Khiyrat Souf - Jerash",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 1.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 1.41,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Jerash",
+    "restaurant": "Um Khalil Restaurant - Jerash",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 12.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 16.92,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Kerak",
+    "restaurant": "AlQala Resto",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 6.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 8.46,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Kerak",
+    "restaurant": "Azaim Deeritna Restaurant- Kerak",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 8.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 11.28,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Kerak",
+    "restaurant": "Azaim Deeritna Restaurant- Kerak",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 8.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 11.28,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Madaba",
+    "restaurant": "Adonis Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 1.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 1.41,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Madaba",
+    "restaurant": "Bawabit Madaba Restaurant",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 7.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 9.87,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Madaba",
+    "restaurant": "Bawabit Madaba Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 7.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 9.87,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Madaba",
+    "restaurant": "Haret Jdoudna Madaba Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 1.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 1.41,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Madaba",
+    "restaurant": "Hikayet Sitti Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 6.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 8.46,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Mount Nebo",
+    "restaurant": "Mazayen Nebo Restaurant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 6.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 8.46,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "Aloe Vera Restaurant - Petra Guest House",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 22.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 22.0,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "Aloe Vera Restaurant - Petra Guest House",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 22.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 22.0,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "Basin Petra Rest",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 22.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 22.0,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "Jordan Heritage Rest Petra",
+    "itemType": "Dinner Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 14.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 19.74,
+    "sourceColumn": "Dinner Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "Jordan Heritage Rest Petra",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 14.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 19.74,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "Movenpick Resort Petra - Cruise",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 21.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 21.0,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "My Mom's Recipe",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 9.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 12.69,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "Petra Guest House - Cruise Ship",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 21.0,
+    "priceOriginalCurrency": "USD",
+    "usdPrice": 21.0,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Petra",
+    "restaurant": "Sand Stone Petra Resturant",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 6.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 8.46,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Um Qais",
+    "restaurant": "Romero Um Qais Resthouse",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 10.38,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 14.64,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Wadi Rum",
+    "restaurant": "Mazayen Camp",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 5.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 7.05,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Wadi Rum",
+    "restaurant": "Rock Adventure Village Restaurant Wadi Rum",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 6.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 8.46,
+    "sourceColumn": "Lunch Price P.P"
+  },
+  {
+    "region": "Wadi Rum",
+    "restaurant": "Rum Imagination Luxury Camp - Cruise",
+    "itemType": "Lunch Price P.P",
+    "menuOrExperience": null,
+    "priceOriginalValue": 9.0,
+    "priceOriginalCurrency": "JOD",
+    "usdPrice": 12.69,
+    "sourceColumn": "Lunch Price P.P"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "RES-SAMPLE-001": {
+    "id": "RES-SAMPLE-001",
+    "generalData": {
+      "groupName": "Sample Group",
+      "agent": "Sample Agent",
+      "nationality": "American",
+      "reservationCode": "RES-SAMPLE-001"
+    },
+    "ArrDep": [
+      {
+        "arr": true,
+        "dep": false,
+        "date": "2025-01-15",
+        "from": "New York",
+        "to": "Amman",
+        "flight": "RJ262",
+        "time": "14:30",
+        "pax": "2"
+      }
+    ],
+    "Hotels": [],
+    "Entrance": [],
+    "Guides": [],
+    "Itineraries": []
+  }
+}

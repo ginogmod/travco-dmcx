@@ -1,0 +1,500 @@
+[
+  {
+    "Travco Jordan": "EntFeesName",
+    "": "CityID",
+    "__1": "Adl_Rate",
+    "__2": "Chd_Rate"
+  },
+  {
+    "Travco Jordan": "New Fee",
+    "": "",
+    "__1": 10,
+    "__2": 10
+  },
+  {
+    "Travco Jordan": "Ajloun Castle",
+    "": "",
+    "__1": 3.1,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Ajloun Woodland Reserve",
+    "": "",
+    "__1": 6.38,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Amman (Regular Tour + Blue Mosque)",
+    "": "",
+    "__1": 7,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Amman City Tour (Amman Citadel + Roman Theater)",
+    "": "",
+    "__1": 5,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Amman National Museum -",
+    "": "",
+    "__1": 5,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Anjara",
+    "": "",
+    "__1": 5,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Aqaba Castle",
+    "": "",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Atlantis Rum Camp on HB + 4 hrs Jeep Ride",
+    "": "",
+    "__1": 32,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Azraq Wetland Reserve",
+    "": "",
+    "__1": 6.38,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Bedouin Lunch in Wadi Rum",
+    "": "Wadi Rum",
+    "__1": 10,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Bethany (The Baptism Site)",
+    "": "",
+    "__1": 12,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Beyond Camp + 4 Hrs Jeep",
+    "": "",
+    "__1": 32,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Blue Mosque Amman",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "cave of lout",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "cave of seven sleepers",
+    "": 113,
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Citadel of Amman",
+    "": "Amman",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Citadel†Roman Theater",
+    "": "",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Dana Nature Reserve",
+    "": "",
+    "__1": 6.38,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Dead Sea Museum",
+    "": "",
+    "__1": 1,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Dead Sea Museum",
+    "": "Dead Sea",
+    "__1": 5,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Dead Sea swim & lunch ( Ramada Dead Sea)",
+    "": "",
+    "__1": 10.6,
+    "__2": 5.31
+  },
+  {
+    "Travco Jordan": "Desert Castles",
+    "": "",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Dibeen Forest (Large Car)",
+    "": "",
+    "__1": 3.48,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Dibeen Forest (Small Car)",
+    "": "",
+    "__1": 2.32,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Glass Boat with Lunch ( Seabreeze )",
+    "": "",
+    "__1": 0,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Glass Bottom Boat Tour with Lunch",
+    "": "Aqaba",
+    "__1": 22,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Hygiene Small Bottle",
+    "": "",
+    "__1": 0.45,
+    "__2": 0.45
+  },
+  {
+    "Travco Jordan": "Irak Al Amir",
+    "": "",
+    "__1": 1,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Jerash",
+    "": "",
+    "__1": 10,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Kempinski Aqaba",
+    "": "",
+    "__1": 10,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Kerak Castle",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Local Guide Petra",
+    "": "",
+    "__1": 50,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Local Guide Shobak",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Lower Spot Museum",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Ma'in (public waterfalls)",
+    "": "",
+    "__1": 12,
+    "__2": 6
+  },
+  {
+    "Travco Jordan": "Madaba",
+    "": "",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Madaba Archaeological Park",
+    "": "Madaba",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Mar Elias",
+    "": "",
+    "__1": 5,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Masks Packet",
+    "": "",
+    "__1": 2.5,
+    "__2": 2.5
+  },
+  {
+    "Travco Jordan": "Mount Nebo",
+    "": "",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Mujib Reserve - Canyon Water Trail (guided)",
+    "": "",
+    "__1": 31.32,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Mujib Reserve - Ibex Dry Trail (guided)",
+    "": "",
+    "__1": 20.88,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Mujib Reserve - Malaqi Water Trail (guided)",
+    "": "",
+    "__1": 44.08,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Mujib Reserve - Siq Water Trail (self-guided)",
+    "": "",
+    "__1": 17.98,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Mukawir",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Pella",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Petra by Night (Mon - Wed - Thur)",
+    "": "",
+    "__1": 28.5,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Petra Kick Back",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Petra One Day Visit - Regular",
+    "": "",
+    "__1": 50,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Petra One Day Visit (Arava - Petra - Arava)",
+    "": "",
+    "__1": 90,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Petra Three Days Visit - Regular",
+    "": "",
+    "__1": 60,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Petra Two Days Visit - Regular",
+    "": "",
+    "__1": 55,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Restaurant Cash Payment",
+    "": "",
+    "__1": 0,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Royal Automobile Museum",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "RSCN - Ajloun - Roe Deer Trail",
+    "": "Ajloun",
+    "__1": 8,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "RSCN - Dana - White Dome",
+    "": "Dana",
+    "__1": 10,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "RSCN - Mujib - Siq Trail",
+    "": "Mujib",
+    "__1": 18,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Salt Archaeological Museum",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Shaumari Reserve",
+    "": "",
+    "__1": 8.12,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Shobak Castle",
+    "": "",
+    "__1": 1,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Street Food",
+    "": "Amman",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Sufrah Restaurant",
+    "": "Amman",
+    "__1": 23,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Swim and Lunch at Dead Sea",
+    "": "",
+    "__1": 18,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Tell Mar Elias",
+    "": "",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Trekking for 3 hours in Wadi Rum",
+    "": "Wadi Rum",
+    "__1": 60,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Um Al Rasas",
+    "": "",
+    "__1": 3,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Umm Al Jamal",
+    "": "",
+    "__1": 2,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Umm Qais",
+    "": "",
+    "__1": 5,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Al Mujib",
+    "": "",
+    "__1": 0,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum - Camel Ride 01 hour",
+    "": "Wadi Rum",
+    "__1": 10,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Camel Ride - 1 Hour",
+    "": "",
+    "__1": 10,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Camel Ride - 2 Hours",
+    "": "",
+    "__1": 20,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Camel Ride - 3 Hours",
+    "": "",
+    "__1": 30,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Entrance",
+    "": "",
+    "__1": 7,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "WADI RUM JEEP",
+    "": "",
+    "__1": 0,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Jeep Ride - 2 Hours",
+    "": "",
+    "__1": 35,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Jeep Ride - 3 Hours",
+    "": "",
+    "__1": 51,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Jeep Ride - 3 Hours including Remal",
+    "": "",
+    "__1": 51,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Jeep Ride - 4 Hours",
+    "": "",
+    "__1": 67,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Jeep Ride - 5 Hours",
+    "": "",
+    "__1": 75,
+    "__2": 0
+  },
+  {
+    "Travco Jordan": "Wadi Rum Jeep Ride - Over 5 Hours (Full Day)",
+    "": "",
+    "__1": 80,
+    "__2": 0
+  }
+]

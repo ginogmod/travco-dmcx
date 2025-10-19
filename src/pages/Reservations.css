@@ -1,0 +1,8 @@
+.tab-container {
+  overflow-x: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  border-bottom: 2px solid #444;
+  margin-bottom: 20px;
+}

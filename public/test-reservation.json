@@ -1,0 +1,61 @@
+{
+  "id": 1754217622427,
+  "fileNo": "OFF-1754217617572",
+  "groupName": "Test Group Name",
+  "agent": "ARABIA TOURISM UK LTD",
+  "nationality": "American",
+  "dateArr": "2023-08-15",
+  "dateDep": "2023-08-20",
+  "message": "",
+  "itinerary": "Day 1: Amman QAIA - Jerash\nDay 2: Jerash - Kerak\nDay 3: Kerak - Amman City Tour",
+  "inclusions": "Qualified Private French speaking guide\nTransportation as per the above mentioned program",
+  "exclusions": "Any tips & porterage's\nAdditional Meals",
+  "quotations": [
+    {
+      "pax": 2,
+      "paxRange": "2-3 pax",
+      "agent": "ARABIA TOURISM UK LTD",
+      "agentId": 5110002,
+      "group": "Test Group Name",
+      "arrivalDate": "2023-08-15",
+      "departureDate": "2023-08-20",
+      "itinerary": [
+        {
+          "date": "2023-08-15",
+          "day": "Tuesday",
+          "itinerary": "Amman QAIA - Jerash",
+          "transportType": "Full Day",
+          "entrances": [
+            "Ajloun Woodland Reserve"
+          ],
+          "guideRequired": true,
+          "guideLanguage": "French",
+          "guideType": "Private",
+          "accNights": false
+        },
+        {
+          "date": "2023-08-16",
+          "day": "Wednesday",
+          "itinerary": "Jerash - Kerak",
+          "transportType": "Full Day",
+          "entrances": [],
+          "guideRequired": true,
+          "guideLanguage": "French",
+          "guideType": "Private",
+          "accNights": true
+        },
+        {
+          "date": "2023-08-17",
+          "day": "Thursday",
+          "itinerary": "Kerak - Amman City Tour",
+          "transportType": "Full Day",
+          "entrances": [],
+          "guideRequired": true,
+          "guideLanguage": "French",
+          "guideType": "Private",
+          "accNights": false
+        }
+      ]
+    }
+  ]
+}

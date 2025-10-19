@@ -1,0 +1,18 @@
+{
+  "Local": {
+    "Petra": 50,
+    "Jerash": 30,
+    "AccNights": 30
+  },
+  "Private": {
+    "English": 60,
+    "Arabic": 60,
+    "French": 60,
+    "Italian": 70,
+    "Spanish": 70,
+    "German": 70,
+    "Dutch": 90,
+    "Romanian": 90,
+    "AccNights": 30
+  }
+}

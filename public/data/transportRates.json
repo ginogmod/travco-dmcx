@@ -1,0 +1,47 @@
+{
+  "Full Day": {
+    "car": 92,
+    "minivan": 138,
+    "unionvan": 232,
+    "van10": 232,
+    "small": 276,
+    "medium": 357,
+    "large": 496
+  },
+  "Half Day": {
+    "car": 58,
+    "minivan": 87,
+    "unionvan": 173,
+    "van10": 173,
+    "small": 219,
+    "medium": 223,
+    "large": 330
+  },
+  "Stopover": {
+    "car": 71,
+    "minivan": 106.5,
+    "unionvan": 141,
+    "van10": 141,
+    "small": 151,
+    "medium": 188,
+    "large": 206
+  },
+  "Cruise": {
+    "car": 100,
+    "minivan": 150,
+    "unionvan": 222,
+    "van10": 222,
+    "small": 312,
+    "medium": 390,
+    "large": 468
+  },
+  "Transfer": {
+    "car": 28,
+    "minivan": 42,
+    "unionvan": 173,
+    "van10": 173,
+    "small": 219,
+    "medium": 217,
+    "large": 262
+  }
+}

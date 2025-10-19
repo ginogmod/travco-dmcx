@@ -1,0 +1,84 @@
+.data-container {
+  padding: 20px;
+  color: white;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.data-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.search-bar {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.language-filter {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2a2a2a;
+  color: white;
+  margin-left: 10px;
+}
+
+.actions button {
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.data-table th,
+.data-table td {
+  border: 1px solid #444;
+  padding: 8px;
+  text-align: left;
+}
+
+.data-table th {
+  background-color: #1f1f1f;
+}
+
+.data-table input {
+  width: 100%;
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid #555;
+  background-color: #333;
+  color: white;
+}
+
+.data-table select {
+  width: 100%;
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid #555;
+  background-color: #333;
+  color: white;
+}
+
+.data-table button {
+  background: none;
+  border: none;
+  color: #ff4d4d;
+  cursor: pointer;
+  font-size: 16px;
+}

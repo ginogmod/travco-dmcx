@@ -1,0 +1,62 @@
+{
+  "group": "Test Group Name",
+  "groupName": "Test Group Name (Alternative)",
+  "agent": "Test Agent",
+  "nationality": "American",
+  "arrivalDate": "2023-08-15",
+  "departureDate": "2023-08-20",
+  "arrivalFrom": "New York",
+  "arrivalTo": "Amman",
+  "arrivalBorder": "QAIA",
+  "arrivalFlight": "RJ123",
+  "arrivalTime": "14:30",
+  "meetBy": "John Doe",
+  "driverName": "Mike Smith",
+  "departureFrom": "Amman",
+  "departureTo": "New York",
+  "departureBorder": "QAIA",
+  "departureFlight": "RJ456",
+  "departureTime": "16:45",
+  "pax": "4",
+  "guides": [
+    {
+      "name": "Ali Ahmad",
+      "language": "English",
+      "fromDate": "2023-08-15",
+      "toDate": "2023-08-20",
+      "overnight": "2"
+    }
+  ],
+  "itinerary": [
+    {
+      "date": "2023-08-15",
+      "description": "Arrival in Amman",
+      "serviceType": "Transfer"
+    },
+    {
+      "date": "2023-08-16",
+      "description": "Amman City Tour",
+      "serviceType": "Full Day"
+    },
+    {
+      "date": "2023-08-17",
+      "description": "Petra Visit",
+      "serviceType": "Full Day"
+    },
+    {
+      "date": "2023-08-18",
+      "description": "Wadi Rum",
+      "serviceType": "Full Day"
+    },
+    {
+      "date": "2023-08-19",
+      "description": "Dead Sea",
+      "serviceType": "Full Day"
+    },
+    {
+      "date": "2023-08-20",
+      "description": "Departure from Amman",
+      "serviceType": "Transfer"
+    }
+  ]
+}

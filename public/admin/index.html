@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Travco Admin</title>
+<link rel="icon" href="/travco-favicon.png">
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<style> body {margin:0;font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;} .notice{padding:12px;background:#111;color:#ddd;border-bottom:1px solid #333} .notice a{color:#4caf50;text-decoration:none} </style>
+</head>
+<body>
+<div class="notice">Travco Admin Console powered by Decap CMS</div>
+<script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+
+<!-- Prefer Decap code widget; fall back to legacy Netlify code widget if needed -->
+<script src="https://unpkg.com/decap-cms-widget-code@^3.0.0/dist/decap-cms-widget-code.js"></script>
+<script src="https://unpkg.com/netlify-cms-widget-code@^1.1.0/dist/netlify-cms-widget-code.min.js"></script>
+<script>
+  (function () {
+    try {
+      if (window.CMS && window.CodeControl && window.CodePreview) {
+        window.CMS.registerWidget('code', window.CodeControl, window.CodePreview);
+      }
+    } catch (e) {}
+  })();
+</script>
+
+<script>
+if (window.netlifyIdentity) {
+  window.netlifyIdentity.on('init', user => {
+    if (!user) window.netlifyIdentity.on('login', () => window.location.reload());
+  });
+}
+</script>
+</body>
+</html>

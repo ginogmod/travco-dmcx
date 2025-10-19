@@ -1,0 +1,136 @@
+{
+  "group": "Smith Family Tour",
+  "groupName": "Smith Family Tour",
+  "agent": "Travel Express Agency",
+  "agentName": "Travel Express Agency",
+  "nationality": "American",
+  "reservationCode": "RES-2025-001",
+  "bookingReference": "RES-2025-001",
+  "clientName": "John Smith",
+  "pax": 4,
+  "arrivalDate": "2025-07-20",
+  "arrivalFrom": "New York",
+  "arrivalTo": "Amman",
+  "arrivalFlight": "RJ262",
+  "arrivalTime": "14:30",
+  "departureDate": "2025-07-27",
+  "departureFrom": "Amman",
+  "departureTo": "New York",
+  "departureFlight": "RJ261",
+  "departureTime": "10:15",
+  "hotels": [
+    {
+      "name": "Grand Hyatt Amman",
+      "checkIn": "2025-07-20",
+      "checkOut": "2025-07-22",
+      "nights": 2,
+      "roomType": "Deluxe",
+      "mealPlan": "BB",
+      "pax": 4,
+      "sgl": 0,
+      "dbl": 2,
+      "trp": 0
+    },
+    {
+      "name": "Movenpick Resort Petra",
+      "checkIn": "2025-07-22",
+      "checkOut": "2025-07-24",
+      "nights": 2,
+      "roomType": "Standard",
+      "mealPlan": "HB",
+      "pax": 4,
+      "sgl": 0,
+      "dbl": 2,
+      "trp": 0
+    },
+    {
+      "name": "Kempinski Hotel Aqaba",
+      "checkIn": "2025-07-24",
+      "checkOut": "2025-07-27",
+      "nights": 3,
+      "roomType": "Sea View",
+      "mealPlan": "FB",
+      "pax": 4,
+      "sgl": 0,
+      "dbl": 2,
+      "trp": 0
+    }
+  ],
+  "entrances": [
+    {
+      "date": "2025-07-21",
+      "name": "Jerash",
+      "pax": 4
+    },
+    {
+      "date": "2025-07-23",
+      "name": "Petra",
+      "pax": 4
+    },
+    {
+      "date": "2025-07-25",
+      "name": "Wadi Rum",
+      "pax": 4
+    }
+  ],
+  "guides": [
+    {
+      "name": "Ali Ahmad",
+      "language": "English",
+      "date": "2025-07-21"
+    },
+    {
+      "name": "Layla Khoury",
+      "language": "English",
+      "date": "2025-07-23"
+    }
+  ],
+  "itinerary": [
+    {
+      "date": "2025-07-20",
+      "description": "Arrival at Queen Alia International Airport - Transfer to Amman"
+    },
+    {
+      "date": "2025-07-21",
+      "description": "Full day tour to Jerash and Ajloun Castle"
+    },
+    {
+      "date": "2025-07-22",
+      "description": "Visit Madaba, Mount Nebo, and transfer to Petra"
+    },
+    {
+      "date": "2025-07-23",
+      "description": "Full day exploring Petra archaeological site"
+    },
+    {
+      "date": "2025-07-24",
+      "description": "Morning at Little Petra, then transfer to Aqaba via Wadi Rum"
+    },
+    {
+      "date": "2025-07-25",
+      "description": "Free day in Aqaba - Beach and water activities"
+    },
+    {
+      "date": "2025-07-26",
+      "description": "Visit Dead Sea on the way back to Amman"
+    },
+    {
+      "date": "2025-07-27",
+      "description": "Departure from Queen Alia International Airport"
+    }
+  ],
+  "inclusions": [
+    "Meet and assist at airport",
+    "All transfers in AC vehicle",
+    "Accommodation as per itinerary",
+    "Meals as mentioned",
+    "English speaking guide",
+    "Entrance fees to sites"
+  ],
+  "exclusions": [
+    "International flights",
+    "Travel insurance",
+    "Personal expenses",
+    "Tips and gratuities"
+  ]
+}

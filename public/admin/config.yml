@@ -1,0 +1,133 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+site_url: "/"
+logo_url: "/travco-favicon.png"
+
+locale: "en"
+
+collections:
+  - name: "master_data"
+    label: "Master Data (JSON)"
+    label_singular: "Data File"
+    description: "Edit global data used in quotations, seasonality, hotels, transport, guides, and restaurants. Only admins/data-entry should edit."
+    editor:
+      preview: false
+    files:
+      - label: "Hotel Rates (RAW JSON)"
+        name: "hotelRates"
+        file: "public/data/hotelRates.json"
+        extension: "json"
+        format: "json"
+        description: "Array of hotel rate rows (City, Stars, Hotel, Season, Rate_DBL, Rate_SGL, Rate_HB)."
+        fields:
+          - label: "JSON"
+            name: "body"
+            widget: "code"
+            default: "[]"
+            output_code_only: true
+            options:
+              lineNumbers: true
+            language: "json"
+
+      - label: "Seasonality (RAW JSON)"
+        name: "seasonality"
+        file: "public/data/seasonality.json"
+        extension: "json"
+        format: "json"
+        description: "Hotel-specific season windows and mapped rate IDs."
+        fields:
+          - label: "JSON"
+            name: "body"
+            widget: "code"
+            default: "{}"
+            output_code_only: true
+            options:
+              lineNumbers: true
+            language: "json"
+
+      - label: "Transport Rates (RAW JSON)"
+        name: "transportRates"
+        file: "public/data/transportRates.json"
+        extension: "json"
+        format: "json"
+        description: "Vehicle costs by service type (Full Day / Half Day / Stopover / Transfer / Cruise)."
+        fields:
+          - label: "JSON"
+            name: "body"
+            widget: "code"
+            default: "{}"
+            output_code_only: true
+            options:
+              lineNumbers: true
+            language: "json"
+
+      - label: "Guides Rates (RAW JSON)"
+        name: "guidesRates"
+        file: "public/data/guidesRates.json"
+        extension: "json"
+        format: "json"
+        description: "Local and Private guide rates per language and acc-night surcharges."
+        fields:
+          - label: "JSON"
+            name: "body"
+            widget: "code"
+            default: "{}"
+            output_code_only: true
+            options:
+              lineNumbers: true
+            language: "json"
+
+      - label: "Restaurants 2025 (RAW JSON)"
+        name: "restaurants2025"
+        file: "public/data/Restaurants_2025.json"
+        extension: "json"
+        format: "json"
+        description: "Restaurant price list (USD/JOD)."
+        fields:
+          - label: "JSON"
+            name: "body"
+            widget: "code"
+            default: "[]"
+            output_code_only: true
+            options:
+              lineNumbers: true
+            language: "json"
+
+      - label: "Quick Hint (RAW JSON)"
+        name: "quickHint"
+        file: "src/assets/templates/QuickHint.json"
+        extension: "json"
+        format: "json"
+        description: "Location/activity descriptions shown in offers."
+        fields:
+          - label: "JSON"
+            name: "body"
+            widget: "code"
+            default: "{}"
+            output_code_only: true
+            options:
+              lineNumbers: true
+            language: "json"
+
+      - label: "Additional Locations (RAW JSON)"
+        name: "additionalLocations"
+        file: "src/assets/templates/AdditionalLocations.json"
+        extension: "json"
+        format: "json"
+        description: "Additional location descriptions referenced in itineraries."
+        fields:
+          - label: "JSON"
+            name: "body"
+            widget: "code"
+            default: "{}"
+            output_code_only: true
+            options:
+              lineNumbers: true
+            language: "json"

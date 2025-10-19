@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Reservation Drag & Drop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .instructions {
+            background-color: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .step {
+            margin: 10px 0;
+            padding: 10px;
+            background-color: white;
+            border-left: 4px solid #2196f3;
+        }
+        code {
+            background-color: #f5f5f5;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+        .file-link {
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            background-color: #4caf50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .file-link:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Test Reservation System - Drag & Drop</h1>
+    
+    <div class="instructions">
+        <h2>Instructions for Testing</h2>
+        
+        <div class="step">
+            <strong>Step 1:</strong> Download the test reservation JSON file:
+            <br>
+            <a href="test-reservation.json" download class="file-link">Download test-reservation.json</a>
+        </div>
+        
+        <div class="step">
+            <strong>Step 2:</strong> Go to the reservation system:
+            <br>
+            <a href="http://localhost:5173" target="_blank" class="file-link">Open Reservation System</a>
+        </div>
+        
+        <div class="step">
+            <strong>Step 3:</strong> Log in with these credentials:
+            <ul>
+                <li>Username: <code>omar.abuosba</code></li>
+                <li>Password: <code>123456</code></li>
+            </ul>
+        </div>
+        
+        <div class="step">
+            <strong>Step 4:</strong> Click on "New Reservation"
+        </div>
+        
+        <div class="step">
+            <strong>Step 5:</strong> Drag and drop the downloaded <code>test-reservation.json</code> file into the drop zone
+        </div>
+        
+        <div class="step">
+            <strong>Step 6:</strong> Check each tab to verify the data is populated correctly:
+            <ul>
+                <li><strong>General Tab:</strong> Should show Agent Name, Reservation Code, Nationality, and Group Name</li>
+                <li><strong>Arr/Dep Tab:</strong> Should show arrival and departure dates</li>
+                <li><strong>Hotels Tab:</strong> Should show hotel names and nights for each hotel</li>
+                <li><strong>Entrance Tab:</strong> Should show dates and entrance names</li>
+                <li><strong>Guides Tab:</strong> Should show guide names, languages, and dates</li>
+                <li><strong>Itineraries Tab:</strong> Should show dates and itinerary descriptions (without "Day 1:", "Day 2:" prefixes)</li>
+            </ul>
+        </div>
+    </div>
+    
+    <h2>Test Data Summary</h2>
+    <p>The test JSON file contains:</p>
+    <ul>
+        <li>Group: Smith Family Tour</li>
+        <li>Agent: Travel Express Agency</li>
+        <li>Nationality: American</li>
+        <li>Reservation Code: RES-2025-001</li>
+        <li>3 Hotels (Grand Hyatt Amman, Movenpick Resort Petra, Kempinski Hotel Aqaba)</li>
+        <li>3 Entrance fees (Jerash, Petra, Wadi Rum)</li>
+        <li>2 Guides (Ali Ahmad, Layla Khoury - both English speaking)</li>
+        <li>8-day itinerary from July 20-27, 2025</li>
+    </ul>
+</body>
+</html>

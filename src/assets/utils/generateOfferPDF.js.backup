@@ -1,0 +1,636 @@
+// assets/utils/generateOfferPDF.js
+import jsPDF from "jspdf";
+import headerBanner from "../pdf/headerBanner.png?url";
+import footerTravco from "../pdf/footerTravco.png?url";
+import qaiaBackground from "../pdf/qaiaBackground.png?url";
+import petraImage from "../pdf/petraImage.png?url";
+import QuickHint from "../templates/QuickHint.json";
+
+// Signature banners
+import signShatha from "../signatures/shatha.png?url";
+import signOmar   from "../signatures/omar.png?url";
+import signOsama  from "../signatures/osama.png?url";
+import signAya    from "../signatures/aya.png?url";
+
+// Translation dictionaries for different languages
+const translations = {
+  english: {
+    // Section titles
+    "Arrival and Departure": "Arrival and Departure",
+    "Suggested Hotels": "Suggested Hotels",
+    "Rates Per Person": "Rates Per Person",
+    "Supplements": "Supplements",
+    "Inclusions:": "Inclusions:",
+    "Exclusions:": "Exclusions:",
+    "General Notes:": "General Notes:",
+    "Cancellation fees:": "Cancellation fees:",
+    "Booking Process:": "Booking Process:",
+    "Validity:": "Validity:",
+    "Bookings Guarantee:": "Bookings Guarantee:",
+    "Rates & Taxes:": "Rates & Taxes:",
+    "Children Policy:": "Children Policy:",
+    "Check-in/ Out Timing Hotels:": "Check-in/ Out Timing Hotels:",
+    "Triple Rooms:": "Triple Rooms:",
+    "Arrival:": "Arrival:",
+    "Departure:": "Departure:",
+    "Airport Greetings & Checkout:": "Airport Greetings & Checkout:",
+    "Day ": "Day ",
+    
+    // Table headers
+    "Property": "Property",
+    "City": "City",
+    "Nights": "Nights",
+    "Category": "Category",
+    "PAX": "PAX",
+    "Option 1": "Option 1",
+    "Option 2": "Option 2",
+    "Option 3": "Option 3",
+    "Supplement": "Supplement",
+    "SGL Supplement": "SGL Supplement",
+    "H/B Supplement": "H/B Supplement",
+    
+    // Common phrases
+    "The above rates are valid from": "The above rates are valid from",
+    "till": "till",
+    "Or Similar": "Or Similar",
+    "Check-in at": "Check-in at",
+    "Check-Out at": "Check-Out at",
+    "noontime": "noontime",
+    "USD": "USD"
+  },
+  
+  arabic: {
+    // Section titles
+    "Arrival and Departure": "الوصول والمغادرة",
+    "Suggested Hotels": "الفنادق المقترحة",
+    "Rates Per Person": "الأسعار للشخص الواحد",
+    "Supplements": "الإضافات",
+    "Inclusions:": "المشمولات:",
+    "Exclusions:": "غير المشمولات:",
+    "General Notes:": "ملاحظات عامة:",
+    "Cancellation fees:": "رسوم الإلغاء:",
+    "Booking Process:": "عملية الحجز:",
+    "Validity:": "صلاحية العرض:",
+    "Bookings Guarantee:": "ضمان الحجوزات:",
+    "Rates & Taxes:": "الأسعار والضرائب:",
+    "Children Policy:": "سياسة الأطفال:",
+    "Check-in/ Out Timing Hotels:": "مواعيد تسجيل الدخول والخروج من الفنادق:",
+    "Triple Rooms:": "الغرف الثلاثية:",
+    "Arrival:": "الوصول:",
+    "Departure:": "المغادرة:",
+    "Airport Greetings & Checkout:": "استقبال المطار وتسجيل المغادرة:",
+    "Day ": "يوم ",
+    
+    // Table headers
+    "Property": "الفندق",
+    "City": "المدينة",
+    "Nights": "الليالي",
+    "Category": "الفئة",
+    "PAX": "عدد الأشخاص",
+    "Option 1": "الخيار 1",
+    "Option 2": "الخيار 2",
+    "Option 3": "الخيار 3",
+    "Supplement": "الإضافة",
+    "SGL Supplement": "إضافة الغرفة المفردة",
+    "H/B Supplement": "إضافة نصف الإقامة",
+    
+    // Common phrases
+    "The above rates are valid from": "الأسعار المذكورة أعلاه صالحة من",
+    "till": "حتى",
+    "Or Similar": "أو ما يماثله",
+    "Check-in at": "تسجيل الدخول في",
+    "Check-Out at": "تسجيل الخروج في",
+    "noontime": "الظهر",
+    "USD": "دولار أمريكي"
+  },
+  
+  french: {
+    // Section titles
+    "Arrival and Departure": "Arrivée et Départ",
+    "Suggested Hotels": "Hôtels Suggérés",
+    "Rates Per Person": "Tarifs Par Personne",
+    "Supplements": "Suppléments",
+    "Inclusions:": "Inclusions:",
+    "Exclusions:": "Exclusions:",
+    "General Notes:": "Notes Générales:",
+    "Cancellation fees:": "Frais d'annulation:",
+    "Booking Process:": "Processus de Réservation:",
+    "Validity:": "Validité:",
+    "Bookings Guarantee:": "Garantie des Réservations:",
+    "Rates & Taxes:": "Tarifs et Taxes:",
+    "Children Policy:": "Politique Enfants:",
+    "Check-in/ Out Timing Hotels:": "Horaires d'Enregistrement des Hôtels:",
+    "Triple Rooms:": "Chambres Triples:",
+    "Arrival:": "Arrivée:",
+    "Departure:": "Départ:",
+    "Airport Greetings & Checkout:": "Accueil à l'Aéroport et Départ:",
+    "Day ": "Jour ",
+    
+    // Table headers
+    "Property": "Propriété",
+    "City": "Ville",
+    "Nights": "Nuits",
+    "Category": "Catégorie",
+    "PAX": "PAX",
+    "Option 1": "Option 1",
+    "Option 2": "Option 2",
+    "Option 3": "Option 3",
+    "Supplement": "Supplément",
+    "SGL Supplement": "Supplément SGL",
+    "H/B Supplement": "Supplément Demi-pension",
+    
+    // Common phrases
+    "The above rates are valid from": "Les tarifs ci-dessus sont valables du",
+    "till": "au",
+    "Or Similar": "Ou Similaire",
+    "Check-in at": "Enregistrement à",
+    "Check-Out at": "Départ à",
+    "noontime": "midi",
+    "USD": "USD"
+  },
+  
+  german: {
+    // Section titles
+    "Arrival and Departure": "Ankunft und Abreise",
+    "Suggested Hotels": "Vorgeschlagene Hotels",
+    "Rates Per Person": "Preise Pro Person",
+    "Supplements": "Zuschläge",
+    "Inclusions:": "Inklusivleistungen:",
+    "Exclusions:": "Exklusivleistungen:",
+    "General Notes:": "Allgemeine Hinweise:",
+    "Cancellation fees:": "Stornierungsgebühren:",
+    "Booking Process:": "Buchungsprozess:",
+    "Validity:": "Gültigkeit:",
+    "Bookings Guarantee:": "Buchungsgarantie:",
+    "Rates & Taxes:": "Preise & Steuern:",
+    "Children Policy:": "Kinderrichtlinien:",
+    "Check-in/ Out Timing Hotels:": "Check-in/Check-out-Zeiten Hotels:",
+    "Triple Rooms:": "Dreibettzimmer:",
+    "Arrival:": "Ankunft:",
+    "Departure:": "Abreise:",
+    "Airport Greetings & Checkout:": "Flughafen-Begrüßung & Auschecken:",
+    "Day ": "Tag ",
+    
+    // Table headers
+    "Property": "Unterkunft",
+    "City": "Stadt",
+    "Nights": "Nächte",
+    "Category": "Kategorie",
+    "PAX": "PAX",
+    "Option 1": "Option 1",
+    "Option 2": "Option 2",
+    "Option 3": "Option 3",
+    "Supplement": "Zuschlag",
+    "SGL Supplement": "EZ-Zuschlag",
+    "H/B Supplement": "Halbpension-Zuschlag",
+    
+    // Common phrases
+    "The above rates are valid from": "Die oben genannten Preise gelten vom",
+    "till": "bis",
+    "Or Similar": "Oder Ähnliches",
+    "Check-in at": "Check-in um",
+    "Check-Out at": "Check-out um",
+    "noontime": "Mittag",
+    "USD": "USD"
+  },
+  
+  spanish: {
+    // Section titles
+    "Arrival and Departure": "Llegada y Salida",
+    "Suggested Hotels": "Hoteles Sugeridos",
+    "Rates Per Person": "Tarifas Por Persona",
+    "Supplements": "Suplementos",
+    "Inclusions:": "Inclusiones:",
+    "Exclusions:": "Exclusiones:",
+    "General Notes:": "Notas Generales:",
+    "Cancellation fees:": "Gastos de Cancelación:",
+    "Booking Process:": "Proceso de Reserva:",
+    "Validity:": "Validez:",
+    "Bookings Guarantee:": "Garantía de Reservas:",
+    "Rates & Taxes:": "Tarifas e Impuestos:",
+    "Children Policy:": "Política de Niños:",
+    "Check-in/ Out Timing Hotels:": "Horarios de Check-in/Out de Hoteles:",
+    "Triple Rooms:": "Habitaciones Triples:",
+    "Arrival:": "Llegada:",
+    "Departure:": "Salida:",
+    "Airport Greetings & Checkout:": "Saludos en el Aeropuerto y Salida:",
+    "Day ": "Día ",
+    
+    // Table headers
+    "Property": "Propiedad",
+    "City": "Ciudad",
+    "Nights": "Noches",
+    "Category": "Categoría",
+    "PAX": "PAX",
+    "Option 1": "Opción 1",
+    "Option 2": "Opción 2",
+    "Option 3": "Opción 3",
+    "Supplement": "Suplemento",
+    "SGL Supplement": "Suplemento Individual",
+    "H/B Supplement": "Suplemento Media Pensión",
+    
+    // Common phrases
+    "The above rates are valid from": "Las tarifas anteriores son válidas desde",
+    "till": "hasta",
+    "Or Similar": "O Similar",
+    "Check-in at": "Check-in a las",
+    "Check-Out at": "Check-out a las",
+    "noontime": "mediodía",
+    "USD": "USD"
+  }
+};
+
+// Translation function
+function translate(text, language) {
+  if (!language || language === "english") {
+    return text;
+  }
+  
+  const dictionary = translations[language];
+  if (!dictionary) {
+    return text; // Fallback to original text if language not supported
+  }
+  
+  return dictionary[text] || text; // Return translation or original if not found
+}
+
+export function generateOfferPDF(data) {
+  const {
+    groupName,
+    agent,
+    pax = 1,
+    itinerary = [],
+    ratesAndSupplements = [],
+    options = [],
+    quotations = [],
+    message = "",
+    inclusions = [],
+    exclusions = [],
+    signatureKey = "",
+    agencyLogo,    // <-- URL or DataURL for the agency logo
+    mainImage,     // <-- Main image for itinerary page
+    smallImage1,   // <-- Small image 1
+    smallImage2,   // <-- Small image 2
+    smallImage3,   // <-- Small image 3
+    isGroupSeries = false,  // <-- Flag for Group Series
+    validityFrom = "",      // <-- Custom validity start date for Group Series
+    validityTo = "",        // <-- Custom validity end date for Group Series
+    language = "english"    // <-- Selected language for PDF
+  } = data;
+
+  // If options is empty but quotations is not, derive options from quotations
+  let finalOptions = options;
+  if ((!finalOptions || finalOptions.length === 0) && quotations.length > 0) {
+    const firstQuote = quotations[0];
+    if (firstQuote.options && firstQuote.options.length > 0) {
+      finalOptions = firstQuote.options;
+    }
+  }
+
+  // normalize arrays
+  const itinArr = Array.isArray(itinerary)
+    ? itinerary
+    : typeof itinerary === "string"
+      ? itinerary.split("\n").filter(Boolean)
+      : [];
+  const incArr = Array.isArray(inclusions)
+    ? inclusions
+    : typeof inclusions === "string"
+      ? inclusions.split("\n").filter(Boolean)
+      : [];
+  const excArr = Array.isArray(exclusions)
+    ? exclusions
+    : typeof exclusions === "string"
+      ? exclusions.split("\n").filter(Boolean)
+      : [];
+
+  // signature lookup
+  const signatureMap = {
+    shatha: signShatha,
+    omar:   signOmar,
+    osama:  signOsama,
+    aya:    signAya,
+  };
+
+  // PAX label helper
+  const paxRanges = [
+    { min: 1,  max: 1,  label: "1 PAX"     },
+    { min: 2,  max: 3,  label: "2-3 PAX"   },
+    { min: 4,  max: 5,  label: "4-5 PAX"   },
+    { min: 6,  max: 7,  label: "6-7 PAX"   },
+    { min: 8,  max: 9,  label: "8-9 PAX"   },
+    { min: 10, max: 14, label: "10-14 PAX" },
+    { min: 15, max: 19, label: "15-19 PAX" },
+    { min: 20, max: 24, label: "20-24 PAX" },
+    { min: 25, max: 29, label: "25-29 PAX" },
+    { min: 30, max: 34, label: "30-34 PAX" },
+    { min: 35, max: 39, label: "35-39 PAX" },
+    { min: 40, max: 44, label: "40-44 PAX" },
+    { min: 45, max: 49, label: "45-49 PAX" },
+  ];
+  function getPaxLabel(n) {
+    const rng = paxRanges.find(r => n >= r.min && n <= r.max);
+    return rng ? rng.label : `${n} PAX`;
+  }
+
+  const profitMargin = 0.10;
+
+  // sum fixed JOD fees
+  const baseJOD = ratesAndSupplements.reduce(
+    (sum, f) => sum + (Number(f.amount) || 0),
+    0
+  );
+
+  // --- PDF setup ---
+  const doc   = new jsPDF("p","pt","a4");
+  const pageW = doc.internal.pageSize.getWidth();
+  const pageH = doc.internal.pageSize.getHeight();
+  const margin = 40;
+  const lineH = 24;
+  const headerHeight = 100;
+  const footerHeight = 60;
+  const contentAreaHeight = pageH - headerHeight - footerHeight - (2 * margin);
+
+  // Content flow management
+  let currentPage = 1;
+  let currentY = headerHeight + margin;
+  
+  // Track content groups to prevent awkward breaks
+  const contentGroups = [];
+  let currentGroup = null;
+
+  // Draw header (Travco banner at top)
+  const drawHeader = () => {
+    doc.addImage(headerBanner, "PNG", 0, 0, pageW, headerHeight);
+  };
+
+  // Draw footer: Travco bottom-left + agency logo slightly lower bottom-right
+  const drawFooter = () => {
+    const footerY = pageH - footerHeight + 10;
+    // Travco footer
+    doc.addImage(footerTravco, "PNG", 20, footerY, 80, 30);
+    // Agency logo
+    if (agencyLogo) {
+      const logoW = 60;
+      const logoH = 60;
+      doc.addImage(
+        agencyLogo,
+        "PNG",
+        pageW - margin - logoW,
+        footerY - 9,   // slightly lower than Travco footer
+        logoW,
+        logoH
+      );
+    }
+    
+    // Add page number
+    doc.setFont("helvetica", "normal").setFontSize(8).setTextColor(100);
+    doc.text(`Page ${currentPage}`, pageW - margin - 20, pageH - 15, { align: "right" });
+  };
+
+  // Enhanced space checking with content measurement
+  const checkPageSpace = (contentHeight, keepWithNext = false) => {
+    // Add buffer to prevent content crowding at page bottom
+    const bufferSpace = 20;
+    const totalNeededSpace = contentHeight + bufferSpace;
+    
+    // Check if content fits on current page
+    if (currentY + totalNeededSpace > pageH - footerHeight - margin) {
+      // If this content should stay with next content and doesn't fit, add new page
+      if (keepWithNext) {
+        addNewPage();
+        return true; // Indicates a page break occurred
+      }
+      
+      // Regular content that doesn't fit - add new page
+      addNewPage();
+      return true; // Indicates a page break occurred
+    }
+    
+    return false; // No page break needed
+  };
+  
+  // Add new page with header and footer
+  const addNewPage = () => {
+    doc.addPage();
+    currentPage++;
+    drawHeader();
+    drawFooter();
+    currentY = headerHeight + margin;
+    return currentY;
+  };
+  
+  // Measure text content height
+  const measureTextHeight = (text, fontSize, fontStyle = "normal", maxWidth = pageW - 2 * margin) => {
+    doc.setFont("helvetica", fontStyle).setFontSize(fontSize);
+    const lines = doc.splitTextToSize(text, maxWidth);
+    return lines.length * (fontSize * 1.2 / 72 * 96); // Convert pt to px with 1.2 line height
+  };
+  
+  // Start content group to keep related elements together
+  const startContentGroup = () => {
+    currentGroup = {
+      elements: [],
+      totalHeight: 0
+    };
+    contentGroups.push(currentGroup);
+  };
+  
+  // Add element to current group
+  const addToContentGroup = (element, height) => {
+    if (currentGroup) {
+      currentGroup.elements.push(element);
+      currentGroup.totalHeight += height;
+    }
+  };
+  
+  // End content group and check if it fits on current page
+  const endContentGroup = () => {
+    if (currentGroup) {
+      if (currentY + currentGroup.totalHeight > pageH - footerHeight - margin) {
+        addNewPage();
+      }
+      
+      // Execute all elements in the group
+      currentGroup.elements.forEach(element => {
+        element();
+      });
+      
+      currentY += currentGroup.totalHeight;
+      currentGroup = null;
+    }
+  };
+
+  // --- COVER PAGE ---
+  drawHeader();
+  doc.setFontSize(8)
+     .setFillColor(200,0,0).rect(margin, 120, 180, 26, "F")
+     .setTextColor(255).setFont("helvetica","bold")
+     .text(groupName, margin + 10, 138)
+     .setFillColor(90).rect(margin, 150, 180, 20, "F")
+     .text(agent, margin + 10, 164)
+     .setFont("helvetica","normal").setTextColor(0);
+
+  let y = 250;
+  if (message) {
+    const lines = doc.splitTextToSize(message, pageW - 2 * margin);
+    doc.text(lines, margin, y, { lineHeightFactor: 1.4 });
+    y += lines.length * 14 + 10;
+  }
+
+  const sigImage = signatureMap[signatureKey];
+  if (sigImage) {
+    const props = doc.getImageProperties(sigImage);
+    const w = pageW - 2 * margin;
+    const h = (props.height / props.width) * w;
+    doc.addImage(sigImage, "PNG", margin, y, w, h);
+    y += h + 10;
+  }
+
+  drawFooter();
+
+  // --- ARRIVAL & DEPARTURE PAGE ---
+  doc.addPage(); 
+  drawHeader();
+
+  doc.setFillColor(200,0,0).rect(margin, 120, 240, 24, "F");
+  doc.setTextColor(255).setFont("helvetica","bold")
+     .text(translate("Arrival and Departure", language), margin + 10, 138);
+
+  doc.addImage(qaiaBackground, "PNG", margin, 150, pageW - 2 * margin, 100);
+
+  y = 270;
+  const bulletList = (label, linesArr) => {
+    doc.setFont("helvetica","bold").setTextColor(0).text(translate(label, language), margin, y);
+    y += 14;
+    doc.setFont("helvetica","normal");
+    
+    // Translate each line if needed
+    const translatedLines = linesArr.map(txt => {
+      // Try to translate common phrases in arrival/departure information
+      if (language !== "english") {
+        let translatedText = txt;
+        
+        // Common arrival/departure phrases translations
+        const arrivalDepartureTranslations = {
+          arabic: {
+            "Meet & assist team at Queen Alia airport & procedures.": "فريق الاستقبال والمساعدة في مطار الملكة علياء والإجراءات.",
+            "Representatives will hold a sign with your company logo.": "سيحمل الممثلون لافتة تحمل شعار شركتك.",
+            "Travco rep will wait after the medical test area...": "سينتظر ممثل ترافكو بعد منطقة الفحص الطبي...",
+            "Within 72h you will have Travco service PCR.": "خلال 72 ساعة سيكون لديك فحص PCR من خدمة ترافكو.",
+            "Hotel rep's team will assist at checkout desk.": "سيساعد فريق ممثل الفندق في مكتب المغادرة.",
+            "Set luggage pick-up time day before.": "تحديد وقت استلام الأمتعة قبل يوم.",
+            "Transfer luggage to bus and check.": "نقل الأمتعة إلى الحافلة والتحقق منها.",
+            "Transfer luggage and check at check-in point.": "نقل الأمتعة والتحقق عند نقطة تسجيل الوصول.",
+            "Issue boarding passes.": "إصدار بطاقات الصعود إلى الطائرة.",
+            "Complete passport formalities.": "إكمال إجراءات جواز السفر."
+          },
+          french: {
+            "Meet & assist team at Queen Alia airport & procedures.": "Équipe d'accueil et d'assistance à l'aéroport Queen Alia et procédures.",
+            "Representatives will hold a sign with your company logo.": "Les représentants tiendront une pancarte avec le logo de votre entreprise.",
+            "Travco rep will wait after the medical test area...": "Le représentant de Travco attendra après la zone de test médical...",
+            "Within 72h you will have Travco service PCR.": "Dans les 72h, vous aurez un test PCR du service Travco.",
+            "Hotel rep's team will assist at checkout desk.": "L'équipe du représentant de l'hôtel vous assistera au comptoir de départ.",
+            "Set luggage pick-up time day before.": "Fixer l'heure de ramassage des bagages la veille.",
+            "Transfer luggage to bus and check.": "Transférer les bagages au bus et vérifier.",
+            "Transfer luggage and check at check-in point.": "Transférer les bagages et vérifier au point d'enregistrement.",
+            "Issue boarding passes.": "Émettre les cartes d'embarquement.",
+            "Complete passport formalities.": "Compléter les formalités de passeport."
+          },
+          german: {
+            "Meet & assist team at Queen Alia airport & procedures.": "Empfangs- und Assistenzteam am Queen Alia Flughafen & Verfahren.",
+            "Representatives will hold a sign with your company logo.": "Vertreter halten ein Schild mit Ihrem Firmenlogo.",
+            "Travco rep will wait after the medical test area...": "Der Travco-Vertreter wartet nach dem medizinischen Testbereich...",
+            "Within 72h you will have Travco service PCR.": "Innerhalb von 72 Stunden erhalten Sie einen PCR-Test vom Travco-Service.",
+            "Hotel rep's team will assist at checkout desk.": "Das Team des Hotelvertreters hilft am Check-out-Schalter.",
+            "Set luggage pick-up time day before.": "Gepäckabholzeit am Vortag festlegen.",
+            "Transfer luggage to bus and check.": "Gepäck zum Bus bringen und überprüfen.",
+            "Transfer luggage and check at check-in point.": "Gepäck übertragen und am Check-in-Punkt überprüfen.",
+            "Issue boarding passes.": "Bordkarten ausstellen.",
+            "Complete passport formalities.": "Passförmlichkeiten erledigen."
+          },
+          spanish: {
+            "Meet & assist team at Queen Alia airport & procedures.": "Equipo de recepción y asistencia en el aeropuerto Queen Alia y procedimientos.",
+            "Representatives will hold a sign with your company logo.": "Los representantes sostendrán un cartel con el logotipo de su empresa.",
+            "Travco rep will wait after the medical test area...": "El representante de Travco esperará después del área de pruebas médicas...",
+            "Within 72h you will have Travco service PCR.": "Dentro de las 72 horas tendrá la prueba PCR del servicio Travco.",
+            "Hotel rep's team will assist at checkout desk.": "El equipo del representante del hotel le asistirá en el mostrador de salida.",
+            "Set luggage pick-up time day before.": "Establecer la hora de recogida del equipaje el día anterior.",
+            "Transfer luggage to bus and check.": "Transferir el equipaje al autobús y verificar.",
+            "Transfer luggage and check at check-in point.": "Transferir el equipaje y verificar en el punto de facturación.",
+            "Issue boarding passes.": "Emitir tarjetas de embarque.",
+            "Complete passport formalities.": "Completar trámites de pasaporte."
+          }
+        };
+        
+        if (arrivalDepartureTranslations[language]) {
+          const translations = arrivalDepartureTranslations[language];
+          if (translations[txt]) {
+            translatedText = translations[txt];
+          }
+        }
+        
+        return translatedText;
+      }
+      
+      return txt;
+    });
+    
+    translatedLines.forEach(txt => {
+      y = checkPageSpace(y);
+      doc.circle(margin - 6, y - 3, 2, "F");
+      doc.text(doc.splitTextToSize(txt, pageW - 2 * margin - 10), margin, y + 4);
+      y += 20;
+    });
+    y += 10;
+  };
+
+  bulletList("Arrival:", [
+    "Meet & assist team at Queen Alia airport & procedures.",
+    "Representatives will hold a sign with your company logo.",
+    "Travco rep will wait after the medical test area..."
+  ]);
+  bulletList("Departure:", [
+    "Within 72h you will have Travco service PCR.",
+    "Hotel rep's team will assist at checkout desk.",
+    "Set luggage pick-up time day before.",
+    "Transfer luggage to bus and check."
+  ]);
+  bulletList("Airport Greetings & Checkout:", [
+    "Transfer luggage and check at check-in point.",
+    "Issue boarding passes.",
+    "Complete passport formalities."
+  ]);
+
+  drawFooter();
+
+  // --- ITINERARY + QUICKHINT PAGE ---
+  doc.addPage();
+  drawHeader();
+
+  // Main image dimensions
+  const mainImgW = 200, mainImgH = 200;
+  
+  // Small image dimensions
+  const smallImgW = 60, smallImgH = 60;
+  const smallImgGap = 10;
+  
+  // Add main image (use selected image or default to petra)
+  if (mainImage) {
+    doc.addImage(mainImage, "JPEG", pageW - margin - mainImgW, 140, mainImgW, mainImgH);
+  } else {
+    doc.addImage(petraImage, "PNG", pageW - margin - mainImgW, 140, mainImgW, mainImgH);
+  }
+  
+  // Add small images in a row below the main image
+  const smallImagesY = 140 + mainImgH + 10; // 10px gap between main and small images
+  
+  // Small image 1
+  if (smallImage1) {
+    doc.addImage(smallImage1, "JPEG", pageW - margin - mainImgW, smallImagesY, smallImgW, smallImgH);
+  }
+  
+  // Small image 2
+  if (smallImage2) {
+    doc.addImage(smallImage2, "JPEG", pageW - margin - mainImgW + smallImgW + smallImgGap, smallImagesY, smallImgW, smallImgH);
+  

@@ -1,0 +1,34 @@
+{
+  "group": "Test Tour Group",
+  "agent": "ABC Travel Agency",
+  "nationality": "American",
+  "pax": "20",
+  "arrivalDate": "2025-02-15",
+  "departureDate": "2025-02-22",
+  "quotations": [
+    {
+      "options": [
+        {
+          "hotelName": "Marriott Amman",
+          "roomType": "Deluxe Double",
+          "mealBasis": "HB",
+          "nights": 7
+        },
+        {
+          "hotelName": "Petra Guest House",
+          "roomType": "Standard Twin",
+          "mealBasis": "FB",
+          "nights": 2
+        }
+      ]
+    }
+  ],
+  "transportation": [
+    {
+      "vehicleType": "50-seater Bus"
+    }
+  ],
+  "itinerary": "Day 1: Arrival in Amman - Meet & Assist\nDay 2: Amman City Tour\nDay 3: Jerash and Ajloun\nDay 4: Petra Full Day\nDay 5: Wadi Rum Desert\nDay 6: Dead Sea\nDay 7: Free Day in Amman\nDay 8: Departure",
+  "inclusions": "All entrance fees\nProfessional English-speaking guide\nAll transportation as per itinerary\nMeet and assist at airport\nAll meals as mentioned",
+  "exclusions": "International flights\nVisa fees\nPersonal expenses\nTips and gratuities"
+}

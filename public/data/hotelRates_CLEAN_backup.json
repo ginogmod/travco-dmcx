@@ -1,0 +1,7058 @@
+[
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Radisson",
+    "Season": "Regular",
+    "Rate_DBL": 71.4,
+    "Rate_SGL": 51,
+    "Rate_HB": 25.5
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Sigina",
+    "Season": "Low",
+    "Rate_DBL": 85.17,
+    "Rate_SGL": 68.85,
+    "Rate_HB": 30.6
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Sigina Normal",
+    "Season": "Regular",
+    "Rate_DBL": 87.21,
+    "Rate_SGL": 70.89,
+    "Rate_HB": 30.6
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Sigina",
+    "Season": "Peak",
+    "Rate_DBL": 89.76,
+    "Rate_SGL": 73.44,
+    "Rate_HB": 30.6
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Rotana  A",
+    "Season": "Regular",
+    "Rate_DBL": 89.76,
+    "Rate_SGL": 73.44,
+    "Rate_HB": 29.58
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Rotana  B",
+    "Season": "Regular",
+    "Rate_DBL": 97.92,
+    "Rate_SGL": 81.6,
+    "Rate_HB": 29.58
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Rotana ",
+    "Season": "EID",
+    "Rate_DBL": 114.24,
+    "Rate_SGL": 97.92,
+    "Rate_HB": 29.58
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Fairmont",
+    "Season": "Regular",
+    "Rate_DBL": 122.4,
+    "Rate_SGL": 97.92,
+    "Rate_HB": 44.88
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Sheraton",
+    "Season": "Regular",
+    "Rate_DBL": 81.6,
+    "Rate_SGL": 65.28,
+    "Rate_HB": 32.64
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "The House Boutique",
+    "Season": "Regular",
+    "Rate_DBL": 69.36,
+    "Rate_SGL": 69.36,
+    "Rate_HB": 28.56
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Grand Hyatt",
+    "Season": "Regular",
+    "Rate_DBL": 77.52,
+    "Rate_SGL": 61.2,
+    "Rate_HB": 27.54
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "W",
+    "Season": "Regular",
+    "Rate_DBL": 106.08,
+    "Rate_SGL": 89.76,
+    "Rate_HB": 48.96
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Movenpick",
+    "Season": "Regular",
+    "Rate_DBL": 76.5,
+    "Rate_SGL": 60.18,
+    "Rate_HB": 23.46
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "St Regis",
+    "Season": "Regular",
+    "Rate_DBL": 138.72,
+    "Rate_SGL": 114.24,
+    "Rate_HB": 57.12
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Bristol",
+    "Season": "Regular",
+    "Rate_DBL": 51,
+    "Rate_SGL": 51,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Intercontinental",
+    "Season": "Regular",
+    "Rate_DBL": 85.68,
+    "Rate_SGL": 61.2,
+    "Rate_HB": 36.21
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Crowne",
+    "Season": "Regular",
+    "Rate_DBL": 77.52,
+    "Rate_SGL": 61.2,
+    "Rate_HB": 29.58
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Marriott",
+    "Season": "Regular",
+    "Rate_DBL": 73.44,
+    "Rate_SGL": 57.12,
+    "Rate_HB": 32.64
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Landmark",
+    "Season": "Regular",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": 51,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "LeRoyal",
+    "Season": "Regular",
+    "Rate_DBL": 69.36,
+    "Rate_SGL": 53.04,
+    "Rate_HB": 26.52
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Regency",
+    "Season": "Regular",
+    "Rate_DBL": 51,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Amman",
+    "Stars": 5,
+    "Hotel": "Thousand Nights",
+    "Season": "Regular",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": 51,
+    "Rate_HB": 20.4
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "MENA Tyche",
+    "Season": "Regular",
+    "Rate_DBL": 28.56,
+    "Rate_SGL": 27.54,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Centro Mada",
+    "Season": "Regular",
+    "Rate_DBL": 53.04,
+    "Rate_SGL": 44.88,
+    "Rate_HB": 14.79
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Centro Mada Eid",
+    "Season": "Regular",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": null,
+    "Rate_HB": null
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Centro Mada",
+    "Season": "EID",
+    "Rate_DBL": null,
+    "Rate_SGL": 53.04,
+    "Rate_HB": 14.79
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Qasr",
+    "Season": "Regular",
+    "Rate_DBL": 51,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 27.54
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "La Casa",
+    "Season": "Regular",
+    "Rate_DBL": 33.66,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Olive Tree",
+    "Season": "FIT",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Olive Tree",
+    "Season": "GRP",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Century Park",
+    "Season": "Regular",
+    "Rate_DBL": 35.7,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Sadeen",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "SanRock",
+    "Season": "Regular",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 3.06
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Corp",
+    "Season": "Regular",
+    "Rate_DBL": 45.9,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Kaya",
+    "Season": "Regular",
+    "Rate_DBL": 33.66,
+    "Rate_SGL": 28.56,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Le Vendome",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Geneva",
+    "Season": "FIT",
+    "Rate_DBL": 38.76,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Grand Palace",
+    "Season": "Regular",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Sulaf",
+    "Season": "Regular",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Gerasa",
+    "Season": "FIT",
+    "Rate_DBL": 38.76,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Harir",
+    "Season": "FIT",
+    "Rate_DBL": 38.76,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Arena Space",
+    "Season": "Regular",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Toledo",
+    "Season": "Regular",
+    "Rate_DBL": 35.7,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 8.16
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Saray",
+    "Season": "Regular",
+    "Rate_DBL": 28.56,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Seven Roses",
+    "Season": "Regular",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Signature",
+    "Season": "Regular",
+    "Rate_DBL": 19.38,
+    "Rate_SGL": 18.36,
+    "Rate_HB": 4.08
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Days Inn",
+    "Season": "Regular",
+    "Rate_DBL": 27.54,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Strand",
+    "Season": "Regular",
+    "Rate_DBL": 23.46,
+    "Rate_SGL": 22.44,
+    "Rate_HB": 4.08
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Ambassador",
+    "Season": "Regular",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": " West",
+    "Season": "Regular",
+    "Rate_DBL": 35.7,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 4,
+    "Hotel": "Khan Khediwe",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Hisham",
+    "Season": "Regular",
+    "Rate_DBL": 28.56,
+    "Rate_SGL": 22.44,
+    "Rate_HB": 16.32
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Conroy",
+    "Season": "FIT",
+    "Rate_DBL": 34.68,
+    "Rate_SGL": 23.46,
+    "Rate_HB": 14.28
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Canary",
+    "Season": "Regular",
+    "Rate_DBL": 32.64,
+    "Rate_SGL": 32.64,
+    "Rate_HB": null
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Retaj",
+    "Season": "Regular",
+    "Rate_DBL": 28.56,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 4.08
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Olive",
+    "Season": "Regular",
+    "Rate_DBL": 20.4,
+    "Rate_SGL": 17.34,
+    "Rate_HB": 5.61
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "New Merry Land Hotel",
+    "Season": "Regular",
+    "Rate_DBL": 23.46,
+    "Rate_SGL": 18.36,
+    "Rate_HB": 3.06
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "MENEUR",
+    "Season": "Regular",
+    "Rate_DBL": 23.46,
+    "Rate_SGL": 18.36,
+    "Rate_HB": 3.06
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Orchid",
+    "Season": "Regular",
+    "Rate_DBL": 21.42,
+    "Rate_SGL": 18.36,
+    "Rate_HB": 3.06
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Larsa",
+    "Season": "Regular",
+    "Rate_DBL": 29.58,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 7.14
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "MISK",
+    "Season": "Regular",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 15.3,
+    "Rate_HB": 8.16
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Sparr",
+    "Season": "Regular",
+    "Rate_DBL": 23.46,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 6.12
+  },
+  {
+    "City": "Amman",
+    "Stars": 3,
+    "Hotel": "Guest House",
+    "Season": "Regular",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Shaheen Dlx",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Aladdin Dlx",
+    "Season": "Low",
+    "Rate_DBL": 43.86,
+    "Rate_SGL": 12.24,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Aladdin Dlx",
+    "Season": "High",
+    "Rate_DBL": 51,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Aladdin Panoramic",
+    "Season": "Low",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Aladdin Panoramic",
+    "Season": "High",
+    "Rate_DBL": 102,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Beyond/Atlantis",
+    "Season": "Regular",
+    "Rate_DBL": 32.64,
+    "Rate_SGL": 14.28,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Rum Magic Dlx",
+    "Season": "Regular",
+    "Rate_DBL": 36.21,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Rum Magic Panoramic",
+    "Season": "Regular",
+    "Rate_DBL": 50.49,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Rum Magic Bubble",
+    "Season": "Regular",
+    "Rate_DBL": 72.42,
+    "Rate_SGL": 51,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Magical Desert Dunes Panoramic",
+    "Season": "Regular",
+    "Rate_DBL": 57.63,
+    "Rate_SGL": 29.07,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Hasan Zawaideh Dlx",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Hasan Zawaideh Bubble",
+    "Season": "Regular",
+    "Rate_DBL": 79.56,
+    "Rate_SGL": 50.49,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Jabal Burdah Panoramic",
+    "Season": "Regular",
+    "Rate_DBL": 50.49,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Jabal Burdah Dlx",
+    "Season": "Regular",
+    "Rate_DBL": 36.21,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Sharah Dlx",
+    "Season": "Low",
+    "Rate_DBL": 28.815,
+    "Rate_SGL": 28.815,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Sharah Dlx",
+    "Season": "High",
+    "Rate_DBL": 36.21,
+    "Rate_SGL": 36.21,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Sharah Panoramic",
+    "Season": "Low",
+    "Rate_DBL": 43.35,
+    "Rate_SGL": 43.35,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Sharah Panoramic",
+    "Season": "High",
+    "Rate_DBL": 57.63,
+    "Rate_SGL": 57.63,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Sharah Bubble",
+    "Season": "Low",
+    "Rate_DBL": 57.63,
+    "Rate_SGL": 57.63,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Regular",
+    "Hotel": "Sharah Bubble",
+    "Season": "High",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 86.7,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Mazayen Std",
+    "Season": "Regular",
+    "Rate_DBL": 66.3,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Mazayen Bubble",
+    "Season": "Regular",
+    "Rate_DBL": 114.75,
+    "Rate_SGL": 114.75,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Sultana Std",
+    "Season": "Regular",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Sultana Bubble",
+    "Season": "Regular",
+    "Rate_DBL": 108.12,
+    "Rate_SGL": 108.12,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Aicha Junior",
+    "Season": "Low",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 86.7,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Aicha Junior",
+    "Season": "High",
+    "Rate_DBL": 100.98,
+    "Rate_SGL": 100.98,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Aicha Panoramic",
+    "Season": "Low",
+    "Rate_DBL": 129.54,
+    "Rate_SGL": 129.54,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Aicha Panoramic",
+    "Season": "High",
+    "Rate_DBL": 180.03,
+    "Rate_SGL": 180.03,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Omsiat P.Suite",
+    "Season": "Low",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Omsiat P.Suite",
+    "Season": "High",
+    "Rate_DBL": 76.5,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Omsiat Dome",
+    "Season": "Low",
+    "Rate_DBL": 99.45,
+    "Rate_SGL": 58.65,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Omsiat Dome",
+    "Season": "High",
+    "Rate_DBL": 119.85,
+    "Rate_SGL": 68.85,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Palmera Sultana",
+    "Season": "Regular",
+    "Rate_DBL": 201.96,
+    "Rate_SGL": 201.96,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Palmera Martian",
+    "Season": "Regular",
+    "Rate_DBL": 180.03,
+    "Rate_SGL": 180.03,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Sun City Camp Deluxe",
+    "Season": "Regular",
+    "Rate_DBL": 71.4,
+    "Rate_SGL": 51,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Sun City Camp Royal",
+    "Season": "Regular",
+    "Rate_DBL": 112.2,
+    "Rate_SGL": 112.2,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Sun City Camp Fulls",
+    "Season": "Regular",
+    "Rate_DBL": 142.8,
+    "Rate_SGL": 142.8,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Discovery Bedu",
+    "Season": "Regular",
+    "Rate_DBL": 428.4,
+    "Rate_SGL": 428.4,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Ufo",
+    "Season": "Regular",
+    "Rate_DBL": 104.448,
+    "Rate_SGL": 104.448,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Bubble Luxotel",
+    "Season": "Regular",
+    "Rate_DBL": 144.0648,
+    "Rate_SGL": 144.0648,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Rum Oasis Dlx",
+    "Season": "Low",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Rum Oasis Dlx",
+    "Season": "High",
+    "Rate_DBL": 51,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Rum Oasis Sky",
+    "Season": "Regular",
+    "Rate_DBL": 72.42,
+    "Rate_SGL": 72.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Rum Oasis Martian",
+    "Season": "Low",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 86.7,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": "Deluxe",
+    "Hotel": "Rum Oasis Martian",
+    "Season": "High",
+    "Rate_DBL": 108.12,
+    "Rate_SGL": 108.12,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Grand Mercure(Classic)",
+    "Season": "Low",
+    "Rate_DBL": 52.02,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Grand Mercure(Classic)",
+    "Season": "High",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 74.46,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Grand Mercure(Classic)",
+    "Season": "Peak",
+    "Rate_DBL": 97.92,
+    "Rate_SGL": 86.7,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "MVP-(Superior)",
+    "Season": "Low",
+    "Rate_DBL": 91.8,
+    "Rate_SGL": 80.58,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "MVP-(Superior)",
+    "Season": "High",
+    "Rate_DBL": 160.14,
+    "Rate_SGL": 148.92,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "MVP-(Superior)",
+    "Season": "Peak",
+    "Rate_DBL": 177.48,
+    "Rate_SGL": 166.26,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Marriott",
+    "Season": "Low",
+    "Rate_DBL": 81.09,
+    "Rate_SGL": 64.77,
+    "Rate_HB": 32.64
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Marriott",
+    "Season": "High",
+    "Rate_DBL": 154.02,
+    "Rate_SGL": 137.7,
+    "Rate_HB": 32.64
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Hyatt-Zaman",
+    "Season": "Low",
+    "Rate_DBL": 51,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Hyatt-Zaman",
+    "Season": "High",
+    "Rate_DBL": 102,
+    "Rate_SGL": 76.5,
+    "Rate_HB": 20.4
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Old Village",
+    "Season": "Low",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": 51,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Old Village",
+    "Season": "Mid",
+    "Rate_DBL": 91.8,
+    "Rate_SGL": 81.6,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": "Old Village",
+    "Season": "Peak",
+    "Rate_DBL": 132.6,
+    "Rate_SGL": 112.2,
+    "Rate_HB": 20.4
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Bubble Luxotel",
+    "Season": "Regular",
+    "Rate_DBL": 144.0648,
+    "Rate_SGL": 144.0648,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Moon Luxury",
+    "Season": "Low",
+    "Rate_DBL": 71.4,
+    "Rate_SGL": 61.2,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Moon Luxury",
+    "Season": "High",
+    "Rate_DBL": 132.6,
+    "Rate_SGL": 112.2,
+    "Rate_HB": 20.4
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Moon Luxury",
+    "Season": "Peak",
+    "Rate_DBL": 153,
+    "Rate_SGL": 112.2,
+    "Rate_HB": 20.4
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Pillars",
+    "Season": "Low",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 51,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Pillars",
+    "Season": "High",
+    "Rate_DBL": 112.2,
+    "Rate_SGL": 86.7,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Seasons",
+    "Season": "Low",
+    "Rate_DBL": 71.4,
+    "Rate_SGL": 61.2,
+    "Rate_HB": 25.5
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Seasons",
+    "Season": "High",
+    "Rate_DBL": 132.6,
+    "Rate_SGL": 117.3,
+    "Rate_HB": 25.5
+  },
+  {
+    "City": "Petra",
+    "Stars": 5,
+    "Hotel": " Seasons",
+    "Season": "Peak",
+    "Rate_DBL": 147.9,
+    "Rate_SGL": 122.4,
+    "Rate_HB": 25.5
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Boutique",
+    "Season": "Low",
+    "Rate_DBL": 54.06,
+    "Rate_SGL": 46.92,
+    "Rate_HB": 14.28
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Boutique",
+    "Season": "High",
+    "Rate_DBL": 90.78,
+    "Rate_SGL": 68.34,
+    "Rate_HB": 22.44
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": "P Quattro",
+    "Season": "Low",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": "P Quattro",
+    "Season": "High",
+    "Rate_DBL": 81.6,
+    "Rate_SGL": 66.3,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Guest House",
+    "Season": "Low",
+    "Rate_DBL": 66.3,
+    "Rate_SGL": 51,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Guest House",
+    "Season": "High",
+    "Rate_DBL": 117.3,
+    "Rate_SGL": 91.8,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Moon",
+    "Season": "Low",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 45.9,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Moon",
+    "Season": "High",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 71.4,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Moon",
+    "Season": "Peak",
+    "Rate_DBL": 91.8,
+    "Rate_SGL": 71.4,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Elite",
+    "Season": "Low",
+    "Rate_DBL": 51,
+    "Rate_SGL": 42.84,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Elite",
+    "Season": "High",
+    "Rate_DBL": 79.56,
+    "Rate_SGL": 71.4,
+    "Rate_HB": 17.34
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Elite",
+    "Season": "Peak",
+    "Rate_DBL": 99.96,
+    "Rate_SGL": 91.8,
+    "Rate_HB": 17.34
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Canyon",
+    "Season": "Low",
+    "Rate_DBL": 44.88,
+    "Rate_SGL": 51,
+    "Rate_HB": 6.12
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Canyon",
+    "Season": "High",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 61.2,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Castle",
+    "Season": "Low",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": " Castle",
+    "Season": "High",
+    "Rate_DBL": 71.4,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": "RN ",
+    "Season": "Low",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": "RN ",
+    "Season": "High",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": 61.2,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": "7 Wonders",
+    "Season": "Low",
+    "Rate_DBL": 27.54,
+    "Rate_SGL": 27.54,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": "7 Wonders",
+    "Season": "High",
+    "Rate_DBL": 35.7,
+    "Rate_SGL": 27.54,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 4,
+    "Hotel": "7 Wonders",
+    "Season": "Peak",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "La Maison",
+    "Season": "Low",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 26.52,
+    "Rate_HB": 7.14
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "La Maison",
+    "Season": "High",
+    "Rate_DBL": 35.7,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 7.14
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Premium",
+    "Season": "Low",
+    "Rate_DBL": 32.13,
+    "Rate_SGL": 32.13,
+    "Rate_HB": 17.34
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Premium",
+    "Season": "High",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 17.34
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Shaqilath",
+    "Season": "Flat",
+    "Rate_DBL": 27.54,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 8.16
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Edom Hotel",
+    "Season": "Low",
+    "Rate_DBL": 26.52,
+    "Rate_SGL": 24.48,
+    "Rate_HB": 6.12
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Edom Hotel",
+    "Season": "High",
+    "Rate_DBL": 32.64,
+    "Rate_SGL": 24.48,
+    "Rate_HB": 6.12
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Nomads",
+    "Season": "Low",
+    "Rate_DBL": 24.48,
+    "Rate_SGL": 24.48,
+    "Rate_HB": 14.28
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Nomads",
+    "Season": "High",
+    "Rate_DBL": 34.68,
+    "Rate_SGL": 34.68,
+    "Rate_HB": 14.28
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Palace",
+    "Season": "Low",
+    "Rate_DBL": 34.68,
+    "Rate_SGL": 24.48,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Palace",
+    "Season": "High",
+    "Rate_DBL": 46.92,
+    "Rate_SGL": 29.58,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Palace",
+    "Season": "Peak",
+    "Rate_DBL": 48.96,
+    "Rate_SGL": 32.64,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Icon",
+    "Season": "Low",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Icon",
+    "Season": "Mid",
+    "Rate_DBL": 51,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Icon",
+    "Season": "High",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": 51,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Corner",
+    "Season": "Low",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": " Corner",
+    "Season": "High",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Silk Road",
+    "Season": "Flat",
+    "Rate_DBL": 23.46,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 8.16
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Little HB",
+    "Season": "DLX",
+    "Rate_DBL": 58.14,
+    "Rate_SGL": 15.3,
+    "Rate_HB": null
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Little ",
+    "Season": "DLX",
+    "Rate_DBL": null,
+    "Rate_SGL": null,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Sharah",
+    "Season": "Low",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Petra",
+    "Stars": 3,
+    "Hotel": "Sharah",
+    "Season": "High",
+    "Rate_DBL": 33.66,
+    "Rate_SGL": 33.66,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Al Manara",
+    "Season": "Low",
+    "Rate_DBL": 96.9,
+    "Rate_SGL": 81.6,
+    "Rate_HB": 48.96
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Al Manara",
+    "Season": "Shoulder",
+    "Rate_DBL": 113.22,
+    "Rate_SGL": 97.41,
+    "Rate_HB": 48.96
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Al Manara",
+    "Season": "High",
+    "Rate_DBL": 129.54,
+    "Rate_SGL": 113.22,
+    "Rate_HB": 48.96
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Al Manara",
+    "Season": "Peak",
+    "Rate_DBL": 170.34,
+    "Rate_SGL": 154.02,
+    "Rate_HB": 48.96
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Hyatt Regency",
+    "Season": "Low",
+    "Rate_DBL": 91.8,
+    "Rate_SGL": 76.5,
+    "Rate_HB": 38.76
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Hyatt Regency",
+    "Season": "Shoulder",
+    "Rate_DBL": 107.1,
+    "Rate_SGL": 91.8,
+    "Rate_HB": 38.76
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Hyatt Regency",
+    "Season": "High",
+    "Rate_DBL": 129.03,
+    "Rate_SGL": 113.73,
+    "Rate_HB": 38.76
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Hyatt Regency",
+    "Season": "Peak",
+    "Rate_DBL": 153,
+    "Rate_SGL": 137.7,
+    "Rate_HB": 38.76
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Movenpick Resort",
+    "Season": "Low",
+    "Rate_DBL": 63.24,
+    "Rate_SGL": 52.02,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Movenpick Resort",
+    "Season": "High",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 74.46,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Movenpick Resort",
+    "Season": "Peak",
+    "Rate_DBL": 132.6,
+    "Rate_SGL": 120.36,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Movenpick Tala Bay",
+    "Season": "Low",
+    "Rate_DBL": 69.36,
+    "Rate_SGL": 58.14,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Movenpick Tala Bay",
+    "Season": "High",
+    "Rate_DBL": 103.02,
+    "Rate_SGL": 91.8,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Movenpick Tala Bay",
+    "Season": "Peak",
+    "Rate_DBL": 172.38,
+    "Rate_SGL": 161.16,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Westin",
+    "Season": "Low",
+    "Rate_DBL": 81.09,
+    "Rate_SGL": 65.28,
+    "Rate_HB": 40.8
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Westin",
+    "Season": "Shoulder",
+    "Rate_DBL": 97.41,
+    "Rate_SGL": 81.6,
+    "Rate_HB": 40.8
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Westin",
+    "Season": "High",
+    "Rate_DBL": 114.24,
+    "Rate_SGL": 97.41,
+    "Rate_HB": 40.8
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Westin",
+    "Season": "Peak",
+    "Rate_DBL": 154.02,
+    "Rate_SGL": 137.7,
+    "Rate_HB": 40.8
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Kempinski",
+    "Season": "Low",
+    "Rate_DBL": 91.8,
+    "Rate_SGL": 81.6,
+    "Rate_HB": 39.78
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Kempinski",
+    "Season": "Shoulder",
+    "Rate_DBL": 112.2,
+    "Rate_SGL": 91.8,
+    "Rate_HB": 39.78
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Kempinski",
+    "Season": "High",
+    "Rate_DBL": 127.5,
+    "Rate_SGL": 117.3,
+    "Rate_HB": null
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Kempinski high",
+    "Season": "Regular",
+    "Rate_DBL": null,
+    "Rate_SGL": null,
+    "Rate_HB": 39.78
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Kempinski",
+    "Season": "Peak",
+    "Rate_DBL": 153,
+    "Rate_SGL": 132.6,
+    "Rate_HB": 39.78
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Double Tree",
+    "Season": "Low",
+    "Rate_DBL": 51,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Double Tree",
+    "Season": "Mid",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": 45.9,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Double Tree",
+    "Season": "High",
+    "Rate_DBL": 63.75,
+    "Rate_SGL": 48.45,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Double Tree",
+    "Season": "Shoulder",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Double Tree",
+    "Season": "Easter",
+    "Rate_DBL": 71.4,
+    "Rate_SGL": 56.1,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Double Tree",
+    "Season": "EID",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 45.9,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Grand Talabay",
+    "Season": "Low",
+    "Rate_DBL": 51,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Grand Talabay",
+    "Season": "High",
+    "Rate_DBL": 66.3,
+    "Rate_SGL": 51,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Grand Talabay",
+    "Season": "Peak",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 51,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Cloud 7",
+    "Season": "Low",
+    "Rate_DBL": 79.56,
+    "Rate_SGL": 93.84,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Cloud 7",
+    "Season": "Mid",
+    "Rate_DBL": 97.92,
+    "Rate_SGL": 112.2,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Cloud 7",
+    "Season": "High",
+    "Rate_DBL": 119.34,
+    "Rate_SGL": 133.62,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 5,
+    "Hotel": "Cloud 7",
+    "Season": "Peak",
+    "Rate_DBL": 155.04,
+    "Rate_SGL": 169.32,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "Luxotel",
+    "Season": "Low",
+    "Rate_DBL": 57.12,
+    "Rate_SGL": 57.12,
+    "Rate_HB": 21.42
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "Luxotel",
+    "Season": "High",
+    "Rate_DBL": 67.32,
+    "Rate_SGL": 67.32,
+    "Rate_HB": 21.42
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "Luxotel",
+    "Season": "Peak",
+    "Rate_DBL": 97.92,
+    "Rate_SGL": 97.92,
+    "Rate_HB": 21.42
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "Aquavista",
+    "Season": "Regular",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "City Tower",
+    "Season": "Regular",
+    "Rate_DBL": 27.54,
+    "Rate_SGL": 22.44,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "Turquoise",
+    "Season": "Regular",
+    "Rate_DBL": 23.46,
+    "Rate_SGL": 15.3,
+    "Rate_HB": 7.14
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "MARINA PLAZA",
+    "Season": "Low",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "MARINA PLAZA",
+    "Season": "High",
+    "Rate_DBL": 45.9,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "MARINA PLAZA",
+    "Season": "Peak",
+    "Rate_DBL": 66.3,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": " Cost",
+    "Season": "Regular",
+    "Rate_DBL": 24.48,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 7.14
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "My Luxury",
+    "Season": "Regular",
+    "Rate_DBL": 28.56,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "LaCosta",
+    "Season": "Low",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 12.24
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "LaCosta",
+    "Season": "High",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 12.24
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "LaCosta",
+    "Season": "Peak",
+    "Rate_DBL": 51,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 12.24
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "Baity",
+    "Season": "FIT",
+    "Rate_DBL": 35.7,
+    "Rate_SGL": 23.46,
+    "Rate_HB": 8.16
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "Baity Groups",
+    "Season": "Regular",
+    "Rate_DBL": 29.58,
+    "Rate_SGL": 23.46,
+    "Rate_HB": 8.16
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "The Loft",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "BRATUS",
+    "Season": "Regular",
+    "Rate_DBL": 45.9,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 4,
+    "Hotel": "Luciana",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 3,
+    "Hotel": "Laverda",
+    "Season": "Regular",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 3,
+    "Hotel": "YAFKO",
+    "Season": "Regular",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 3,
+    "Hotel": "Raed Hotel",
+    "Season": "Regular",
+    "Rate_DBL": 22.44,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 3,
+    "Hotel": "Captain",
+    "Season": "Regular",
+    "Rate_DBL": 28.56,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 12.24
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 3,
+    "Hotel": "Mina",
+    "Season": "Flat",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 15.3,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Aqaba",
+    "Stars": 3,
+    "Hotel": "Mina",
+    "Season": "EID",
+    "Rate_DBL": 35.7,
+    "Rate_SGL": 15.3,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Maeen",
+    "Stars": 5,
+    "Hotel": "Spa Village  Star Main Hot Spring",
+    "Season": "Low",
+    "Rate_DBL": 72.93,
+    "Rate_SGL": 52.53,
+    "Rate_HB": 20.4
+  },
+  {
+    "City": "Maeen",
+    "Stars": 5,
+    "Hotel": "Spa Village  Star Main Hot Spring",
+    "Season": "High",
+    "Rate_DBL": 88.74,
+    "Rate_SGL": 68.34,
+    "Rate_HB": 20.4
+  },
+  {
+    "City": "Maeen",
+    "Stars": 5,
+    "Hotel": "Spa Village  Star Main Hot Spring",
+    "Season": "Peak",
+    "Rate_DBL": 96.39,
+    "Rate_SGL": 75.99,
+    "Rate_HB": 20.4
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Marriott",
+    "Season": "Low",
+    "Rate_DBL": 65.28,
+    "Rate_SGL": 48.96,
+    "Rate_HB": 32.64
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Marriott",
+    "Season": "High",
+    "Rate_DBL": 85.17,
+    "Rate_SGL": 68.85,
+    "Rate_HB": 32.64
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Marriott",
+    "Season": "Peak",
+    "Rate_DBL": 109.14,
+    "Rate_SGL": 93.33,
+    "Rate_HB": 32.64
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Crowne Plaza",
+    "Season": "Low",
+    "Rate_DBL": 64.77,
+    "Rate_SGL": 48.96,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Crowne Plaza",
+    "Season": "Shoulder",
+    "Rate_DBL": 72.93,
+    "Rate_SGL": 56.61,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Crowne Plaza",
+    "Season": "High",
+    "Rate_DBL": 81.6,
+    "Rate_SGL": 64.668,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Crowne Plaza",
+    "Season": "Peak",
+    "Rate_DBL": 100.98,
+    "Rate_SGL": 85.17,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Kempinski Ishtar",
+    "Season": "Low",
+    "Rate_DBL": 96.9,
+    "Rate_SGL": 81.6,
+    "Rate_HB": 39.78
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Kempinski Ishtar",
+    "Season": "Shoulder",
+    "Rate_DBL": 117.3,
+    "Rate_SGL": 91.8,
+    "Rate_HB": 39.78
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Kempinski Ishtar",
+    "Season": "High",
+    "Rate_DBL": 137.7,
+    "Rate_SGL": 117.3,
+    "Rate_HB": 39.78
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Kempinski Ishtar",
+    "Season": "Peak",
+    "Rate_DBL": 153,
+    "Rate_SGL": 132.6,
+    "Rate_HB": 39.78
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Movenpick",
+    "Season": "Low",
+    "Rate_DBL": 68.85,
+    "Rate_SGL": 58.14,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Movenpick",
+    "Season": "High",
+    "Rate_DBL": 103.02,
+    "Rate_SGL": 91.8,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Movenpick",
+    "Season": "Peak",
+    "Rate_DBL": 120.36,
+    "Rate_SGL": 109.14,
+    "Rate_HB": 34.68
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Hilton",
+    "Season": "Low",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 76.5,
+    "Rate_HB": 40.8
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Hilton",
+    "Season": "High",
+    "Rate_DBL": 122.4,
+    "Rate_SGL": 112.2,
+    "Rate_HB": 40.8
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Hilton",
+    "Season": "Peak",
+    "Rate_DBL": 147.9,
+    "Rate_SGL": 137.7,
+    "Rate_HB": 40.8
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Holiday Inn",
+    "Season": "Low",
+    "Rate_DBL": 60.69,
+    "Rate_SGL": 44.88,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Holiday Inn",
+    "Season": "Shoulder",
+    "Rate_DBL": 64.77,
+    "Rate_SGL": 48.96,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Holiday Inn",
+    "Season": "High",
+    "Rate_DBL": 77.01,
+    "Rate_SGL": 60.69,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 5,
+    "Hotel": "Dead Sea  Star Holiday Inn",
+    "Season": "Peak",
+    "Rate_DBL": 97.41,
+    "Rate_SGL": 81.09,
+    "Rate_HB": 31.62
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star Ramada Resort",
+    "Season": "Low",
+    "Rate_DBL": 51,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star Ramada Resort",
+    "Season": "High",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star Ramada Resort Eid",
+    "Season": "Regular",
+    "Rate_DBL": 81.6,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa Off",
+    "Season": "DLX",
+    "Rate_DBL": 49.98,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 25.5
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa DLX",
+    "Season": "Low",
+    "Rate_DBL": 70.38,
+    "Rate_SGL": 56.1,
+    "Rate_HB": 25.5
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa DLX",
+    "Season": "High",
+    "Rate_DBL": 85.68,
+    "Rate_SGL": 66.3,
+    "Rate_HB": 25.5
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa Eid",
+    "Season": "DLX",
+    "Rate_DBL": 95.88,
+    "Rate_SGL": 76.5,
+    "Rate_HB": 25.5
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa STD",
+    "Season": "Low",
+    "Rate_DBL": 39.78,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa STD",
+    "Season": "High",
+    "Rate_DBL": 49.98,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa STD",
+    "Season": "Peak",
+    "Rate_DBL": 70.38,
+    "Rate_SGL": 51,
+    "Rate_HB": 15.3
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa GRP",
+    "Season": "Low",
+    "Rate_DBL": 35.7,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa GRP",
+    "Season": "High",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star D.S Spa GRP",
+    "Season": "Peak",
+    "Rate_DBL": 61.2,
+    "Rate_SGL": 51,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star Grand East",
+    "Season": "Low",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star Grand East",
+    "Season": "High",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Dead Sea",
+    "Stars": 4,
+    "Hotel": "Dead Sea  Star Grand East",
+    "Season": "Peak",
+    "Rate_DBL": 45.9,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Madaba",
+    "Stars": 5,
+    "Hotel": "Dana Guest House (Economy)",
+    "Season": "Regular",
+    "Rate_DBL": 51,
+    "Rate_SGL": 36.21,
+    "Rate_HB": 21.93
+  },
+  {
+    "City": "Madaba",
+    "Stars": 5,
+    "Hotel": "Dana Guest House (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 65.28,
+    "Rate_SGL": 51,
+    "Rate_HB": 21.93
+  },
+  {
+    "City": "Madaba",
+    "Stars": 5,
+    "Hotel": "Rummana Campsite (Economy Tents)",
+    "Season": "Regular",
+    "Rate_DBL": 39.78,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 21.93
+  },
+  {
+    "City": "Madaba",
+    "Stars": 5,
+    "Hotel": "Dana's Trail hotel View",
+    "Season": "Regular",
+    "Rate_DBL": 50.49,
+    "Rate_SGL": 50.49,
+    "Rate_HB": 17.34
+  },
+  {
+    "City": "Madaba",
+    "Stars": 5,
+    "Hotel": "Dana's Trail hotel Full View",
+    "Season": "Regular",
+    "Rate_DBL": 57.63,
+    "Rate_SGL": 57.63,
+    "Rate_HB": 17.34
+  },
+  {
+    "City": "Madaba",
+    "Stars": 5,
+    "Hotel": "WADI DANA ECO CAMP Chalet",
+    "Season": "Regular",
+    "Rate_DBL": 43.35,
+    "Rate_SGL": 22.44,
+    "Rate_HB": 14.28
+  },
+  {
+    "City": "Madaba",
+    "Stars": 4,
+    "Hotel": "Aitch",
+    "Season": "Regular",
+    "Rate_DBL": 29.58,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 10.71
+  },
+  {
+    "City": "Madaba",
+    "Stars": 3,
+    "Hotel": "Mariam",
+    "Season": "Regular",
+    "Rate_DBL": 21.93,
+    "Rate_SGL": 12.24,
+    "Rate_HB": 11.73
+  },
+  {
+    "City": "Madaba",
+    "Stars": 3,
+    "Hotel": "Grand",
+    "Season": "Regular",
+    "Rate_DBL": 25.5,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 5.1
+  },
+  {
+    "City": "Madaba",
+    "Stars": 3,
+    "Hotel": "Salome",
+    "Season": "Regular",
+    "Rate_DBL": 21.42,
+    "Rate_SGL": 12.24,
+    "Rate_HB": 10.2
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Shaheen Dlx (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Aladdin Dlx (Regular)",
+    "Season": "Low",
+    "Rate_DBL": 43.86,
+    "Rate_SGL": 12.24,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Aladdin Dlx (Regular)",
+    "Season": "High",
+    "Rate_DBL": 51,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Aladdin Panoramic (Regular)",
+    "Season": "Low",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Aladdin Panoramic (Regular)",
+    "Season": "High",
+    "Rate_DBL": 102,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Beyond/Atlantis (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 32.64,
+    "Rate_SGL": 14.28,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Rum Magic Dlx (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 36.21,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Rum Magic Panoramic (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 50.49,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Rum Magic Bubble (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 72.42,
+    "Rate_SGL": 51,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Magical Desert Dunes Panoramic (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 57.63,
+    "Rate_SGL": 29.07,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Hasan Zawaideh Dlx (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 30.6,
+    "Rate_SGL": 20.4,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Hasan Zawaideh Bubble (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 79.56,
+    "Rate_SGL": 50.49,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Jabal Burdah Panoramic (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 50.49,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Jabal Burdah Dlx (Regular)",
+    "Season": "Regular",
+    "Rate_DBL": 36.21,
+    "Rate_SGL": 21.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Sharah Dlx (Regular)",
+    "Season": "Low",
+    "Rate_DBL": 28.815,
+    "Rate_SGL": 28.815,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Sharah Dlx (Regular)",
+    "Season": "High",
+    "Rate_DBL": 36.21,
+    "Rate_SGL": 36.21,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Sharah Panoramic (Regular)",
+    "Season": "Low",
+    "Rate_DBL": 43.35,
+    "Rate_SGL": 43.35,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Sharah Panoramic (Regular)",
+    "Season": "High",
+    "Rate_DBL": 57.63,
+    "Rate_SGL": 57.63,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Sharah Bubble (Regular)",
+    "Season": "Low",
+    "Rate_DBL": 57.63,
+    "Rate_SGL": 57.63,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 3,
+    "Hotel": "Sharah Bubble (Regular)",
+    "Season": "High",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 86.7,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Mazayen Std (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 66.3,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Mazayen Bubble (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 114.75,
+    "Rate_SGL": 114.75,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Sultana Std (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Sultana Bubble (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 108.12,
+    "Rate_SGL": 108.12,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Aicha Junior (Deluxe)",
+    "Season": "Low",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 86.7,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Aicha Junior (Deluxe)",
+    "Season": "High",
+    "Rate_DBL": 100.98,
+    "Rate_SGL": 100.98,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Aicha Panoramic (Deluxe)",
+    "Season": "Low",
+    "Rate_DBL": 129.54,
+    "Rate_SGL": 129.54,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Aicha Panoramic (Deluxe)",
+    "Season": "High",
+    "Rate_DBL": 180.03,
+    "Rate_SGL": 180.03,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Omsiat P.Suite (Deluxe)",
+    "Season": "Low",
+    "Rate_DBL": 56.1,
+    "Rate_SGL": 25.5,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Omsiat P.Suite (Deluxe)",
+    "Season": "High",
+    "Rate_DBL": 76.5,
+    "Rate_SGL": 35.7,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Omsiat Dome (Deluxe)",
+    "Season": "Low",
+    "Rate_DBL": 99.45,
+    "Rate_SGL": 58.65,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Omsiat Dome (Deluxe)",
+    "Season": "High",
+    "Rate_DBL": 119.85,
+    "Rate_SGL": 68.85,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Palmera Sultana (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 201.96,
+    "Rate_SGL": 201.96,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Palmera Martian (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 180.03,
+    "Rate_SGL": 180.03,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Sun City Camp Deluxe (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 71.4,
+    "Rate_SGL": 51,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Sun City Camp Royal (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 112.2,
+    "Rate_SGL": 112.2,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Sun City Camp Fulls (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 142.8,
+    "Rate_SGL": 142.8,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Discovery Bedu (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 428.4,
+    "Rate_SGL": 428.4,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Ufo (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 104.448,
+    "Rate_SGL": 104.448,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Bubble Luxotel (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 144.0648,
+    "Rate_SGL": 144.0648,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Rum Oasis Dlx (Deluxe)",
+    "Season": "Low",
+    "Rate_DBL": 40.8,
+    "Rate_SGL": 30.6,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Rum Oasis Dlx (Deluxe)",
+    "Season": "High",
+    "Rate_DBL": 51,
+    "Rate_SGL": 40.8,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Rum Oasis Sky (Deluxe)",
+    "Season": "Regular",
+    "Rate_DBL": 72.42,
+    "Rate_SGL": 72.42,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Rum Oasis Martian (Deluxe)",
+    "Season": "Low",
+    "Rate_DBL": 86.7,
+    "Rate_SGL": 86.7,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Wadi Rum",
+    "Stars": 4,
+    "Hotel": "Rum Oasis Martian (Deluxe)",
+    "Season": "High",
+    "Rate_DBL": 108.12,
+    "Rate_SGL": 108.12,
+    "Rate_HB": 0
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Radisson",
+    "RoomType": "DBL",
+    "Rate": 70
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Radisson",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Radisson",
+    "RoomType": "HB",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Low",
+    "RoomType": "DBL",
+    "Rate": 83.5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Low",
+    "RoomType": "SGL",
+    "Rate": 67.5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Low",
+    "RoomType": "HB",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Normal",
+    "RoomType": "DBL",
+    "Rate": 85.5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Normal",
+    "RoomType": "SGL",
+    "Rate": 69.5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Normal",
+    "RoomType": "HB",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Peak",
+    "RoomType": "DBL",
+    "Rate": 88
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Peak",
+    "RoomType": "SGL",
+    "Rate": 72
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sigina Peak",
+    "RoomType": "HB",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman A",
+    "RoomType": "DBL",
+    "Rate": 88
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman A",
+    "RoomType": "SGL",
+    "Rate": 72
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman A",
+    "RoomType": "HB",
+    "Rate": 29
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman B",
+    "RoomType": "DBL",
+    "Rate": 96
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman B",
+    "RoomType": "SGL",
+    "Rate": 80
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman B",
+    "RoomType": "HB",
+    "Rate": 29
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman EID",
+    "RoomType": "DBL",
+    "Rate": 112
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman EID",
+    "RoomType": "SGL",
+    "Rate": 96
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Rotana Amman EID",
+    "RoomType": "HB",
+    "Rate": 29
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Fairmont",
+    "RoomType": "DBL",
+    "Rate": 120
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Fairmont",
+    "RoomType": "SGL",
+    "Rate": 96
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Fairmont",
+    "RoomType": "HB",
+    "Rate": 44
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sheraton",
+    "RoomType": "DBL",
+    "Rate": 80
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sheraton",
+    "RoomType": "SGL",
+    "Rate": 64
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Sheraton",
+    "RoomType": "HB",
+    "Rate": 32
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "The House Boutique",
+    "RoomType": "DBL",
+    "Rate": 68
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "The House Boutique",
+    "RoomType": "SGL",
+    "Rate": 68
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "The House Boutique",
+    "RoomType": "HB",
+    "Rate": 28
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Grand Hyatt",
+    "RoomType": "DBL",
+    "Rate": 76
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Grand Hyatt",
+    "RoomType": "SGL",
+    "Rate": 60
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Grand Hyatt",
+    "RoomType": "HB",
+    "Rate": 27
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "W",
+    "RoomType": "DBL",
+    "Rate": 104
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "W",
+    "RoomType": "SGL",
+    "Rate": 88
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "W",
+    "RoomType": "HB",
+    "Rate": 48
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Movenpick",
+    "RoomType": "DBL",
+    "Rate": 75
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Movenpick",
+    "RoomType": "SGL",
+    "Rate": 59
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Movenpick",
+    "RoomType": "HB",
+    "Rate": 23
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "St Regis",
+    "RoomType": "DBL",
+    "Rate": 136
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "St Regis",
+    "RoomType": "SGL",
+    "Rate": 112
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "St Regis",
+    "RoomType": "HB",
+    "Rate": 56
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Bristol",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Bristol",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Bristol",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Intercontinental",
+    "RoomType": "DBL",
+    "Rate": 84
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Intercontinental",
+    "RoomType": "SGL",
+    "Rate": 60
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Intercontinental",
+    "RoomType": "HB",
+    "Rate": 35.5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Crowne",
+    "RoomType": "DBL",
+    "Rate": 76
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Crowne",
+    "RoomType": "SGL",
+    "Rate": 60
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Crowne",
+    "RoomType": "HB",
+    "Rate": 29
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Marriott",
+    "RoomType": "DBL",
+    "Rate": 72
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Marriott",
+    "RoomType": "SGL",
+    "Rate": 56
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Marriott",
+    "RoomType": "HB",
+    "Rate": 32
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Landmark",
+    "RoomType": "DBL",
+    "Rate": 60
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Landmark",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Landmark",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "LeRoyal",
+    "RoomType": "DBL",
+    "Rate": 68
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "LeRoyal",
+    "RoomType": "SGL",
+    "Rate": 52
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "LeRoyal",
+    "RoomType": "HB",
+    "Rate": 26
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Regency",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Regency",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Regency",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Thousand Nights",
+    "RoomType": "DBL",
+    "Rate": 60
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Thousand Nights",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Amman",
+    "Stars": "Five",
+    "Hotel": "Thousand Nights",
+    "RoomType": "HB",
+    "Rate": 20
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "MENA Tyche",
+    "RoomType": "DBL",
+    "Rate": 28
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "MENA Tyche",
+    "RoomType": "SGL",
+    "Rate": 27
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "MENA Tyche",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Centro Mada",
+    "RoomType": "DBL",
+    "Rate": 52
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Centro Mada",
+    "RoomType": "SGL",
+    "Rate": 44
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Centro Mada",
+    "RoomType": "HB",
+    "Rate": 14.5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Centro Mada Eid",
+    "RoomType": "DBL",
+    "Rate": 60
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Centro Mada EID",
+    "RoomType": "SGL",
+    "Rate": 52
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Centro Mada EID",
+    "RoomType": "HB",
+    "Rate": 14.5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Qasr",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Qasr",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Qasr",
+    "RoomType": "HB",
+    "Rate": 27
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "La Casa",
+    "RoomType": "DBL",
+    "Rate": 33
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "La Casa",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "La Casa",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Olive Tree FIT",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Olive Tree FIT",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Olive Tree FIT",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Olive Tree GRP",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Olive Tree GRP",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Olive Tree GRP",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Century Park",
+    "RoomType": "DBL",
+    "Rate": 35
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Century Park",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Century Park",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Sadeen",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Sadeen",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Sadeen",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "SanRock",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "SanRock",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "SanRock",
+    "RoomType": "HB",
+    "Rate": 3
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Corp",
+    "RoomType": "DBL",
+    "Rate": 45
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Corp",
+    "RoomType": "SGL",
+    "Rate": 35
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Corp",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Kaya",
+    "RoomType": "DBL",
+    "Rate": 33
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Kaya",
+    "RoomType": "SGL",
+    "Rate": 28
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Kaya",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Le Vendome",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Le Vendome",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Le Vendome",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Geneva FIT",
+    "RoomType": "DBL",
+    "Rate": 38
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Geneva FIT",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Geneva FIT",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Grand Palace",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Grand Palace",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Grand Palace",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Sulaf",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Sulaf",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Sulaf",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Gerasa FIT",
+    "RoomType": "DBL",
+    "Rate": 38
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Gerasa FIT",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Gerasa FIT",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Harir FIT",
+    "RoomType": "DBL",
+    "Rate": 38
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Harir FIT",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Harir FIT",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Arena Space",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Arena Space",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Arena Space",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Toledo",
+    "RoomType": "DBL",
+    "Rate": 35
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Toledo",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Toledo",
+    "RoomType": "HB",
+    "Rate": 8
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Saray",
+    "RoomType": "DBL",
+    "Rate": 28
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Saray",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Saray",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Seven Roses",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Seven Roses",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Seven Roses",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Signature",
+    "RoomType": "DBL",
+    "Rate": 19
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Signature",
+    "RoomType": "SGL",
+    "Rate": 18
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Signature",
+    "RoomType": "HB",
+    "Rate": 4
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Days Inn",
+    "RoomType": "DBL",
+    "Rate": 27
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Days Inn",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Days Inn",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Strand",
+    "RoomType": "DBL",
+    "Rate": 23
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Strand",
+    "RoomType": "SGL",
+    "Rate": 22
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Strand",
+    "RoomType": "HB",
+    "Rate": 4
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Ambassador",
+    "RoomType": "DBL",
+    "Rate": 55
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Ambassador",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Ambassador",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Amman West",
+    "RoomType": "DBL",
+    "Rate": 35
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Amman West",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Amman West",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Khan Khediwe",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Khan Khediwe",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Amman",
+    "Stars": "Four",
+    "Hotel": "Khan Khediwe",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Hisham",
+    "RoomType": "DBL",
+    "Rate": 28
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Hisham",
+    "RoomType": "SGL",
+    "Rate": 22
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Hisham",
+    "RoomType": "HB",
+    "Rate": 16
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Conroy FIT",
+    "RoomType": "DBL",
+    "Rate": 34
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Conroy FIT",
+    "RoomType": "SGL",
+    "Rate": 23
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Conroy FIT",
+    "RoomType": "HB",
+    "Rate": 14
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Canary",
+    "RoomType": "DBL",
+    "Rate": 32
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Canary",
+    "RoomType": "SGL",
+    "Rate": 32
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Retaj",
+    "RoomType": "DBL",
+    "Rate": 28
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Retaj",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Retaj",
+    "RoomType": "HB",
+    "Rate": 4
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Olive",
+    "RoomType": "DBL",
+    "Rate": 20
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Olive",
+    "RoomType": "SGL",
+    "Rate": 17
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Olive",
+    "RoomType": "HB",
+    "Rate": 5.5
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "New Merry Land Hotel",
+    "RoomType": "DBL",
+    "Rate": 23
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "New Merry Land Hotel",
+    "RoomType": "SGL",
+    "Rate": 18
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "New Merry Land Hotel",
+    "RoomType": "HB",
+    "Rate": 3
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "MENEUR",
+    "RoomType": "DBL",
+    "Rate": 23
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "MENEUR",
+    "RoomType": "SGL",
+    "Rate": 18
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "MENEUR",
+    "RoomType": "HB",
+    "Rate": 3
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Orchid",
+    "RoomType": "DBL",
+    "Rate": 21
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Orchid",
+    "RoomType": "SGL",
+    "Rate": 18
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Orchid",
+    "RoomType": "HB",
+    "Rate": 3
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Larsa",
+    "RoomType": "DBL",
+    "Rate": 29
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Larsa",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Larsa",
+    "RoomType": "HB",
+    "Rate": 7
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "MISK",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "MISK",
+    "RoomType": "SGL",
+    "Rate": 15
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "MISK",
+    "RoomType": "HB",
+    "Rate": 8
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Sparr",
+    "RoomType": "DBL",
+    "Rate": 23
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Sparr",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Sparr",
+    "RoomType": "HB",
+    "Rate": 6
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Guest House",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Guest House",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Amman",
+    "Stars": "Three",
+    "Hotel": "Guest House",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure Low(Classic)",
+    "RoomType": "DBL",
+    "Rate": 51
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure Low(Classic)",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure Low(Classic)",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure High(Classic)",
+    "RoomType": "DBL",
+    "Rate": 85
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure High(Classic)",
+    "RoomType": "SGL",
+    "Rate": 73
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure High(Classic)",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure Peak(Classic)",
+    "RoomType": "DBL",
+    "Rate": 96
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure Peak(Classic)",
+    "RoomType": "SGL",
+    "Rate": 85
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Grand Mercure Peak(Classic)",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra Low(Superior)",
+    "RoomType": "DBL",
+    "Rate": 90
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra Low(Superior)",
+    "RoomType": "SGL",
+    "Rate": 79
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra Low(Superior)",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra High(Superior)",
+    "RoomType": "DBL",
+    "Rate": 157
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra High(Superior)",
+    "RoomType": "SGL",
+    "Rate": 146
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra High(Superior)",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra Peak(Superior)",
+    "RoomType": "DBL",
+    "Rate": 174
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra Peak(Superior)",
+    "RoomType": "SGL",
+    "Rate": 163
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "MVP-Petra Peak(Superior)",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Marriott Low",
+    "RoomType": "DBL",
+    "Rate": 79.5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Marriott Low",
+    "RoomType": "SGL",
+    "Rate": 63.5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Marriott Low",
+    "RoomType": "HB",
+    "Rate": 32
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Marriott High",
+    "RoomType": "DBL",
+    "Rate": 151
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Marriott High",
+    "RoomType": "SGL",
+    "Rate": 135
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Marriott High",
+    "RoomType": "HB",
+    "Rate": 32
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Hyatt-Zaman Low",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Hyatt-Zaman Low",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Hyatt-Zaman Low",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Hyatt-Zaman High",
+    "RoomType": "DBL",
+    "Rate": 100
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Hyatt-Zaman High",
+    "RoomType": "SGL",
+    "Rate": 75
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Hyatt-Zaman High",
+    "RoomType": "HB",
+    "Rate": 20
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Low",
+    "RoomType": "DBL",
+    "Rate": 60
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Low",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Low",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Mid",
+    "RoomType": "DBL",
+    "Rate": 90
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Mid",
+    "RoomType": "SGL",
+    "Rate": 80
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Mid",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Peak",
+    "RoomType": "DBL",
+    "Rate": 130
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Peak",
+    "RoomType": "SGL",
+    "Rate": 110
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Old Village Peak",
+    "RoomType": "HB",
+    "Rate": 20
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Bubble Luxotel",
+    "RoomType": "DBL",
+    "Rate": 141.24
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Bubble Luxotel",
+    "RoomType": "SGL",
+    "Rate": 141.24
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury Low",
+    "RoomType": "DBL",
+    "Rate": 70
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury Low",
+    "RoomType": "SGL",
+    "Rate": 60
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury Low",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury High",
+    "RoomType": "DBL",
+    "Rate": 130
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury High",
+    "RoomType": "SGL",
+    "Rate": 110
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury High",
+    "RoomType": "HB",
+    "Rate": 20
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury Peak",
+    "RoomType": "DBL",
+    "Rate": 150
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury Peak",
+    "RoomType": "SGL",
+    "Rate": 110
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Moon Luxury Peak",
+    "RoomType": "HB",
+    "Rate": 20
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Pillars Low",
+    "RoomType": "DBL",
+    "Rate": 55
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Pillars Low",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Pillars Low",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Pillars High",
+    "RoomType": "DBL",
+    "Rate": 110
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Pillars High",
+    "RoomType": "SGL",
+    "Rate": 85
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Pillars High",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons Low",
+    "RoomType": "DBL",
+    "Rate": 70
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons Low",
+    "RoomType": "SGL",
+    "Rate": 60
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons Low",
+    "RoomType": "HB",
+    "Rate": 25
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons High",
+    "RoomType": "DBL",
+    "Rate": 130
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons High",
+    "RoomType": "SGL",
+    "Rate": 115
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons High",
+    "RoomType": "HB",
+    "Rate": 25
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons Peak",
+    "RoomType": "DBL",
+    "Rate": 145
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons Peak",
+    "RoomType": "SGL",
+    "Rate": 120
+  },
+  {
+    "City": "Petra",
+    "Stars": "Five",
+    "Hotel": "Petra Seasons Peak",
+    "RoomType": "HB",
+    "Rate": 25
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Boutique Low",
+    "RoomType": "DBL",
+    "Rate": 53
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Boutique Low",
+    "RoomType": "SGL",
+    "Rate": 46
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Boutique Low",
+    "RoomType": "HB",
+    "Rate": 14
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Boutique High",
+    "RoomType": "DBL",
+    "Rate": 89
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Boutique High",
+    "RoomType": "SGL",
+    "Rate": 67
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Boutique High",
+    "RoomType": "HB",
+    "Rate": 22
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "P Quattro Low",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "P Quattro Low",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "P Quattro Low",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "P Quattro High",
+    "RoomType": "DBL",
+    "Rate": 80
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "P Quattro High",
+    "RoomType": "SGL",
+    "Rate": 65
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "P Quattro High",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Guest House Low",
+    "RoomType": "DBL",
+    "Rate": 65
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Guest House Low",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Guest House Low",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Guest House High",
+    "RoomType": "DBL",
+    "Rate": 115
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Guest House High",
+    "RoomType": "SGL",
+    "Rate": 90
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Guest House High",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon Low",
+    "RoomType": "DBL",
+    "Rate": 55
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon Low",
+    "RoomType": "SGL",
+    "Rate": 45
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon Low",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon High",
+    "RoomType": "DBL",
+    "Rate": 85
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon High",
+    "RoomType": "SGL",
+    "Rate": 70
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon High",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon Peak",
+    "RoomType": "DBL",
+    "Rate": 90
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon Peak",
+    "RoomType": "SGL",
+    "Rate": 70
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Moon Peak",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite Low",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite Low",
+    "RoomType": "SGL",
+    "Rate": 42
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite Low",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite High",
+    "RoomType": "DBL",
+    "Rate": 78
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite High",
+    "RoomType": "SGL",
+    "Rate": 70
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite High",
+    "RoomType": "HB",
+    "Rate": 17
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite Peak",
+    "RoomType": "DBL",
+    "Rate": 98
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite Peak",
+    "RoomType": "SGL",
+    "Rate": 90
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Elite Peak",
+    "RoomType": "HB",
+    "Rate": 17
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Canyon Low",
+    "RoomType": "DBL",
+    "Rate": 44
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Canyon Low",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Canyon Low",
+    "RoomType": "HB",
+    "Rate": 6
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Canyon High",
+    "RoomType": "DBL",
+    "Rate": 55
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Canyon High",
+    "RoomType": "SGL",
+    "Rate": 60
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Canyon High",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Castle Low",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Castle Low",
+    "RoomType": "SGL",
+    "Rate": 35
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Castle Low",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Castle High",
+    "RoomType": "DBL",
+    "Rate": 70
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Castle High",
+    "RoomType": "SGL",
+    "Rate": 35
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "Petra Castle High",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "RN Petra Low",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "RN Petra Low",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "RN Petra Low",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "RN Petra High",
+    "RoomType": "DBL",
+    "Rate": 60
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "RN Petra High",
+    "RoomType": "SGL",
+    "Rate": 60
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "RN Petra High",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders Low",
+    "RoomType": "DBL",
+    "Rate": 27
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders Low",
+    "RoomType": "SGL",
+    "Rate": 27
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders Low",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders High",
+    "RoomType": "DBL",
+    "Rate": 35
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders High",
+    "RoomType": "SGL",
+    "Rate": 27
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders High",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders Peak",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders Peak",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Petra",
+    "Stars": "Four",
+    "Hotel": "7 Wonders Peak",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "La Maison Low",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "La Maison Low",
+    "RoomType": "SGL",
+    "Rate": 26
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "La Maison Low",
+    "RoomType": "HB",
+    "Rate": 7
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "La Maison High",
+    "RoomType": "DBL",
+    "Rate": 35
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "La Maison High",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "La Maison High",
+    "RoomType": "HB",
+    "Rate": 7
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Premium Low",
+    "RoomType": "DBL",
+    "Rate": 31.5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Premium Low",
+    "RoomType": "SGL",
+    "Rate": 31.5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Premium Low",
+    "RoomType": "HB",
+    "Rate": 17
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Premium High",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Premium High",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Premium High",
+    "RoomType": "HB",
+    "Rate": 17
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Shaqilath Flat",
+    "RoomType": "DBL",
+    "Rate": 27
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Shaqilath Flat",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Shaqilath Flat",
+    "RoomType": "HB",
+    "Rate": 8
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Edom Hotel Low",
+    "RoomType": "DBL",
+    "Rate": 26
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Edom Hotel Low",
+    "RoomType": "SGL",
+    "Rate": 24
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Edom Hotel Low",
+    "RoomType": "HB",
+    "Rate": 6
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Edom Hotel High",
+    "RoomType": "DBL",
+    "Rate": 32
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Edom Hotel High",
+    "RoomType": "SGL",
+    "Rate": 24
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Edom Hotel High",
+    "RoomType": "HB",
+    "Rate": 6
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Nomads Low",
+    "RoomType": "DBL",
+    "Rate": 24
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Nomads Low",
+    "RoomType": "SGL",
+    "Rate": 24
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Nomads Low",
+    "RoomType": "HB",
+    "Rate": 14
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Nomads High",
+    "RoomType": "DBL",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Nomads High",
+    "RoomType": "SGL",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Nomads High",
+    "RoomType": "HB",
+    "Rate": 14
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace Low",
+    "RoomType": "DBL",
+    "Rate": 34
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace Low",
+    "RoomType": "SGL",
+    "Rate": 24
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace Low",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace High",
+    "RoomType": "DBL",
+    "Rate": 46
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace High",
+    "RoomType": "SGL",
+    "Rate": 29
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace High",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace Peak",
+    "RoomType": "DBL",
+    "Rate": 48
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace Peak",
+    "RoomType": "SGL",
+    "Rate": 32
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Palace Peak",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon Low",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon Low",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon Low",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon Mid",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon Mid",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon Mid",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon High",
+    "RoomType": "DBL",
+    "Rate": 60
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon High",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Icon High",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Corner Low",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Corner Low",
+    "RoomType": "SGL",
+    "Rate": 35
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Corner Low",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Corner High",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Corner High",
+    "RoomType": "SGL",
+    "Rate": 35
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Petra Corner High",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Silk Road Flat",
+    "RoomType": "DBL",
+    "Rate": 23
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Silk Road Flat",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Silk Road Flat",
+    "RoomType": "HB",
+    "Rate": 8
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Little Petra DLX",
+    "RoomType": "HB",
+    "Rate": 57
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Little Petra DLX",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Sharah Low",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Sharah Low",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Sharah Low",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Sharah High",
+    "RoomType": "DBL",
+    "Rate": 33
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Sharah High",
+    "RoomType": "SGL",
+    "Rate": 33
+  },
+  {
+    "City": "Petra",
+    "Stars": "Three",
+    "Hotel": "Sharah High",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Low",
+    "RoomType": "DBL",
+    "Rate": 95
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Low",
+    "RoomType": "SGL",
+    "Rate": 80
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Low",
+    "RoomType": "HB",
+    "Rate": 48
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Shoulder",
+    "RoomType": "DBL",
+    "Rate": 111
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Shoulder",
+    "RoomType": "SGL",
+    "Rate": 95.5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Shoulder",
+    "RoomType": "HB",
+    "Rate": 48
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara High",
+    "RoomType": "DBL",
+    "Rate": 127
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara High",
+    "RoomType": "SGL",
+    "Rate": 111
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara High",
+    "RoomType": "HB",
+    "Rate": 48
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Peak",
+    "RoomType": "DBL",
+    "Rate": 167
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Peak",
+    "RoomType": "SGL",
+    "Rate": 151
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Al Manara Peak",
+    "RoomType": "HB",
+    "Rate": 48
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Low",
+    "RoomType": "DBL",
+    "Rate": 90
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Low",
+    "RoomType": "SGL",
+    "Rate": 75
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Low",
+    "RoomType": "HB",
+    "Rate": 38
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Shoulder",
+    "RoomType": "DBL",
+    "Rate": 105
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Shoulder",
+    "RoomType": "SGL",
+    "Rate": 90
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Shoulder",
+    "RoomType": "HB",
+    "Rate": 38
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency High",
+    "RoomType": "DBL",
+    "Rate": 126.5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency High",
+    "RoomType": "SGL",
+    "Rate": 111.5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency High",
+    "RoomType": "HB",
+    "Rate": 38
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Peak",
+    "RoomType": "DBL",
+    "Rate": 150
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Peak",
+    "RoomType": "SGL",
+    "Rate": 135
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Hyatt Regency Peak",
+    "RoomType": "HB",
+    "Rate": 38
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort Low",
+    "RoomType": "DBL",
+    "Rate": 62
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort Low",
+    "RoomType": "SGL",
+    "Rate": 51
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort Low",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort High",
+    "RoomType": "DBL",
+    "Rate": 85
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort High",
+    "RoomType": "SGL",
+    "Rate": 73
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort High",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort Peak",
+    "RoomType": "DBL",
+    "Rate": 130
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort Peak",
+    "RoomType": "SGL",
+    "Rate": 118
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Resort Peak",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay Low",
+    "RoomType": "DBL",
+    "Rate": 68
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay Low",
+    "RoomType": "SGL",
+    "Rate": 57
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay Low",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay High",
+    "RoomType": "DBL",
+    "Rate": 101
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay High",
+    "RoomType": "SGL",
+    "Rate": 90
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay High",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay Peak",
+    "RoomType": "DBL",
+    "Rate": 169
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay Peak",
+    "RoomType": "SGL",
+    "Rate": 158
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Movenpick Tala Bay Peak",
+    "RoomType": "HB",
+    "Rate": 34
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Low",
+    "RoomType": "DBL",
+    "Rate": 79.5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Low",
+    "RoomType": "SGL",
+    "Rate": 64
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Low",
+    "RoomType": "HB",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Shoulder",
+    "RoomType": "DBL",
+    "Rate": 95.5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Shoulder",
+    "RoomType": "SGL",
+    "Rate": 80
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Shoulder",
+    "RoomType": "HB",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin High",
+    "RoomType": "DBL",
+    "Rate": 112
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin High",
+    "RoomType": "SGL",
+    "Rate": 95.5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin High",
+    "RoomType": "HB",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Peak",
+    "RoomType": "DBL",
+    "Rate": 151
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Peak",
+    "RoomType": "SGL",
+    "Rate": 135
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Westin Peak",
+    "RoomType": "HB",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Low",
+    "RoomType": "DBL",
+    "Rate": 90
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Low",
+    "RoomType": "SGL",
+    "Rate": 80
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Low",
+    "RoomType": "HB",
+    "Rate": 39
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Shoulder",
+    "RoomType": "DBL",
+    "Rate": 110
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Shoulder",
+    "RoomType": "SGL",
+    "Rate": 90
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Shoulder",
+    "RoomType": "HB",
+    "Rate": 39
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski High",
+    "RoomType": "DBL",
+    "Rate": 125
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski High",
+    "RoomType": "SGL",
+    "Rate": 115
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski high",
+    "RoomType": "HB",
+    "Rate": 39
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Peak",
+    "RoomType": "DBL",
+    "Rate": 150
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Peak",
+    "RoomType": "SGL",
+    "Rate": 130
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Kempinski Peak",
+    "RoomType": "HB",
+    "Rate": 39
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Low",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Low",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Low",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Mid",
+    "RoomType": "DBL",
+    "Rate": 60
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Mid",
+    "RoomType": "SGL",
+    "Rate": 45
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Mid",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree High",
+    "RoomType": "DBL",
+    "Rate": 62.5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree High",
+    "RoomType": "SGL",
+    "Rate": 47.5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree High",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Shoulder",
+    "RoomType": "DBL",
+    "Rate": 55
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Shoulder",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Shoulder",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Easter",
+    "RoomType": "DBL",
+    "Rate": 70
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Easter",
+    "RoomType": "SGL",
+    "Rate": 55
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree Easter",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree EID",
+    "RoomType": "DBL",
+    "Rate": 85
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree EID",
+    "RoomType": "SGL",
+    "Rate": 45
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Double Tree EID",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay Low",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay Low",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay Low",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay High",
+    "RoomType": "DBL",
+    "Rate": 65
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay High",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay High",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay Peak",
+    "RoomType": "DBL",
+    "Rate": 85
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay Peak",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Grand Talabay Peak",
+    "RoomType": "HB",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Low",
+    "RoomType": "SGL",
+    "Rate": 92
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Low",
+    "RoomType": "DBL",
+    "Rate": 78
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Low",
+    "RoomType": "HB",
+    "Rate": 31
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Mid",
+    "RoomType": "SGL",
+    "Rate": 110
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Mid",
+    "RoomType": "DBL",
+    "Rate": 96
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Mid",
+    "RoomType": "HB",
+    "Rate": 31
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 High",
+    "RoomType": "SGL",
+    "Rate": 131
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 High",
+    "RoomType": "DBL",
+    "Rate": 117
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 High",
+    "RoomType": "HB",
+    "Rate": 31
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Peak",
+    "RoomType": "SGL",
+    "Rate": 166
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Peak",
+    "RoomType": "DBL",
+    "Rate": 152
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Five",
+    "Hotel": "Cloud 7 Peak",
+    "RoomType": "HB",
+    "Rate": 31
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel Low",
+    "RoomType": "DBL",
+    "Rate": 56
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel Low",
+    "RoomType": "SGL",
+    "Rate": 56
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel Low",
+    "RoomType": "HB",
+    "Rate": 21
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel High",
+    "RoomType": "DBL",
+    "Rate": 66
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel High",
+    "RoomType": "SGL",
+    "Rate": 66
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel High",
+    "RoomType": "HB",
+    "Rate": 21
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel Peak",
+    "RoomType": "DBL",
+    "Rate": 96
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel Peak",
+    "RoomType": "SGL",
+    "Rate": 96
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luxotel Peak",
+    "RoomType": "HB",
+    "Rate": 21
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Aquavista",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Aquavista",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Aquavista",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "City Tower",
+    "RoomType": "DBL",
+    "Rate": 27
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "City Tower",
+    "RoomType": "SGL",
+    "Rate": 22
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "City Tower",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Turquoise",
+    "RoomType": "DBL",
+    "Rate": 23
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Turquoise",
+    "RoomType": "SGL",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Turquoise",
+    "RoomType": "HB",
+    "Rate": 7
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA Low",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA Low",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA Low",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA High",
+    "RoomType": "DBL",
+    "Rate": 45
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA High",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA High",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA Peak",
+    "RoomType": "DBL",
+    "Rate": 65
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA Peak",
+    "RoomType": "SGL",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "MARINA PLAZA Peak",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Aqaba Cost",
+    "RoomType": "DBL",
+    "Rate": 24
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Aqaba Cost",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Aqaba Cost",
+    "RoomType": "HB",
+    "Rate": 7
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "My Luxury",
+    "RoomType": "DBL",
+    "Rate": 28
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "My Luxury",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "My Luxury",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta Low",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta Low",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta Low",
+    "RoomType": "HB",
+    "Rate": 12
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta High",
+    "RoomType": "DBL",
+    "Rate": 40
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta High",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta High",
+    "RoomType": "HB",
+    "Rate": 12
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta Peak",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta Peak",
+    "RoomType": "SGL",
+    "Rate": 30
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "LaCosta Peak",
+    "RoomType": "HB",
+    "Rate": 12
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Baity FIT",
+    "RoomType": "DBL",
+    "Rate": 35
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Baity FIT",
+    "RoomType": "SGL",
+    "Rate": 23
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Baity FIT",
+    "RoomType": "HB",
+    "Rate": 8
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Baity Groups",
+    "RoomType": "DBL",
+    "Rate": 29
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Baity Groups",
+    "RoomType": "SGL",
+    "Rate": 23
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Baity Groups",
+    "RoomType": "HB",
+    "Rate": 8
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "The Loft",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "The Loft",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "The Loft",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "BRATUS",
+    "RoomType": "DBL",
+    "Rate": 45
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "BRATUS",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "BRATUS",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luciana",
+    "RoomType": "DBL",
+    "Rate": 30
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luciana",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Four",
+    "Hotel": "Luciana",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Laverda",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Laverda",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Laverda",
+    "RoomType": "HB",
+    "Rate": 10
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "YAFKO",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "YAFKO",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "YAFKO",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Raed Hotel",
+    "RoomType": "DBL",
+    "Rate": 22
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Raed Hotel",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Raed Hotel",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Captain",
+    "RoomType": "DBL",
+    "Rate": 28
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Captain",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Captain",
+    "RoomType": "HB",
+    "Rate": 12
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Mina Flat",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Mina Flat",
+    "RoomType": "SGL",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Mina Flat",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Mina EID",
+    "RoomType": "DBL",
+    "Rate": 35
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Mina EID",
+    "RoomType": "SGL",
+    "Rate": 15
+  },
+  {
+    "City": "Aqaba",
+    "Stars": "Three",
+    "Hotel": "Mina EID",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana Guest House (Economy)",
+    "RoomType": "DBL",
+    "Rate": 50
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana Guest House (Economy)",
+    "RoomType": "SGL",
+    "Rate": 35.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana Guest House (Economy)",
+    "RoomType": "HB",
+    "Rate": 21.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana Guest House (Deluxe)",
+    "RoomType": "DBL",
+    "Rate": 64
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana Guest House (Deluxe)",
+    "RoomType": "SGL",
+    "Rate": 50
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana Guest House (Deluxe)",
+    "RoomType": "HB",
+    "Rate": 21.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Rummana Campsite (Economy Tents)",
+    "RoomType": "DBL",
+    "Rate": 39
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Rummana Campsite (Economy Tents)",
+    "RoomType": "SGL",
+    "Rate": 25
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Rummana Campsite (Economy Tents)",
+    "RoomType": "HB",
+    "Rate": 21.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana's Trail hotel Regular View",
+    "RoomType": "DBL",
+    "Rate": 49.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana's Trail hotel Regular View",
+    "RoomType": "SGL",
+    "Rate": 49.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana's Trail hotel Regular View",
+    "RoomType": "HB",
+    "Rate": 17
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana's Trail hotel Full View",
+    "RoomType": "DBL",
+    "Rate": 56.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana's Trail hotel Full View",
+    "RoomType": "SGL",
+    "Rate": 56.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "Dana's Trail hotel Full View",
+    "RoomType": "HB",
+    "Rate": 17
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "WADI DANA ECO CAMP Chalet",
+    "RoomType": "DBL",
+    "Rate": 42.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "WADI DANA ECO CAMP Chalet",
+    "RoomType": "SGL",
+    "Rate": 22
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Five",
+    "Hotel": "WADI DANA ECO CAMP Chalet",
+    "RoomType": "HB",
+    "Rate": 14
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Four",
+    "Hotel": "Aitch",
+    "RoomType": "DBL",
+    "Rate": 29
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Four",
+    "Hotel": "Aitch",
+    "RoomType": "SGL",
+    "Rate": 21
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Four",
+    "Hotel": "Aitch",
+    "RoomType": "HB",
+    "Rate": 10.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Mariam",
+    "RoomType": "DBL",
+    "Rate": 21.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Mariam",
+    "RoomType": "SGL",
+    "Rate": 12
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Mariam",
+    "RoomType": "HB",
+    "Rate": 11.5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Grand Madaba",
+    "RoomType": "DBL",
+    "Rate": 25
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Grand Madaba",
+    "RoomType": "SGL",
+    "Rate": 20
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Grand Madaba",
+    "RoomType": "HB",
+    "Rate": 5
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Salome",
+    "RoomType": "DBL",
+    "Rate": 21
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Salome",
+    "RoomType": "SGL",
+    "Rate": 12
+  },
+  {
+    "City": "Madaba",
+    "Stars": "Three",
+    "Hotel": "Salome",
+    "RoomType": "HB",
+    "Rate": 10
+  }
+]

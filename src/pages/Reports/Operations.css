@@ -1,0 +1,271 @@
+.operations-container {
+  padding: 15px;
+  color: white;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.operations-container h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.date-range {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.date-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.date-field label {
+  font-size: 14px;
+  color: #ccc;
+}
+
+.date-field input {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.group-name {
+  margin-bottom: 15px;
+}
+
+.group-name label {
+  display: block;
+  font-size: 14px;
+  color: #ccc;
+  margin-bottom: 5px;
+}
+
+.group-name input, .group-name select {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #444;
+  padding-bottom: 10px;
+}
+
+/* Add a small margin to create visual groups */
+.tabs button:nth-child(4),
+.tabs button:nth-child(10) {
+  margin-right: 15px;
+}
+
+.tab {
+  padding: 6px 12px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2a2a2a;
+  color: white;
+  cursor: pointer;
+  font-size: 13px;
+  margin-bottom: 5px;
+}
+
+.tab.active {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.general-filters {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #1f1f1f;
+}
+
+.general-filters h3 {
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: #ccc;
+}
+
+.general-filters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 10px;
+}
+
+.general-filter-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-bottom: 5px;
+}
+
+.general-filter-item label {
+  font-size: 14px;
+  color: #ccc;
+}
+
+.general-filter-item input,
+.general-filter-item select {
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.general-filter-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.dynamic-section {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+/* Ensure the side filters and results have equal width */
+.dynamic-section > div {
+  flex: 1;
+}
+
+.dynamic-field-container {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.dynamic-field {
+  flex: 1;
+}
+
+.dynamic-field label {
+  display: block;
+  font-size: 14px;
+  color: #ccc;
+  margin-bottom: 5px;
+}
+
+.dynamic-field input, .dynamic-field select {
+  width: 100%;
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.side-filters {
+  flex: 1;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #1f1f1f;
+}
+
+.side-filters h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #ccc;
+}
+
+.filter-group {
+  margin-bottom: 10px;
+}
+
+.filter-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #ccc;
+}
+
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.checkbox-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.checkbox-item input[type="checkbox"] {
+  margin: 0;
+}
+
+.checkbox-item label {
+  margin: 0;
+}
+
+.filter-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.filter-row select, .filter-row input {
+  flex: 1;
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.results-section {
+  flex: 1;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  background-color: #1f1f1f;
+}
+
+.dynamic-section .results-section {
+  margin-top: 0;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.action-button {
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.action-button.preview {
+  background-color: #28a745;
+}
+
+.action-button.download {
+  background-color: #dc3545;
+}
+
+.action-button.print {
+  background-color: #6c757d;
+}
